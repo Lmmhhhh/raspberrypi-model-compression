@@ -1,0 +1,49 @@
+Started evaluation at 2025-05-29T13:05:09.779764
+Loading model...
+Finished googlenet - Top1: 0.6978, Top5: 0.8953, Confidence: 0.6352, Time: 35.98ms, Size: 26.67MB
+googlenet: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 3125/3125 [39:45<00:00,  1.31batch/s]
+▶️ [mobilenet_v2] 시작: 2025-05-29T13:51:29.829475
+✅ [mobilenet_v2] 완료: Top1=0.7201, Top5=0.9062, Conf=0.3534, Time=13.93ms, Size=14.26MB
+
+▶️ [mobilenet_v3_large] 시작: 2025-05-29T14:16:44.243262
+✅ [mobilenet_v3_large] 완료: Top1=0.7530, Top5=0.9263, Conf=0.5793, Time=10.56ms, Size=22.13MB
+
+▶️ [mobilenet_v3_small] 시작: 2025-05-29T15:07:30.120669
+✅ [mobilenet_v3_small] 완료: Top1=0.6767, Top5=0.8740, Conf=0.7008, Time=3.42ms, Size=10.30MB
+
+▶️ [restnet18] 시작: 2025-05-29T15:33:34.260251
+❌ [restnet18] 오류 발생 at 2025-05-29T15:33:34.260389:
+Traceback (most recent call last):
+  File "/home/minha/raspberrypi/imagenet/imagenet.py", line 44, in <module>
+    model = getattr(models, MODEL_NAME)(weights="DEFAULT").to(DEVICE)
+AttributeError: module 'torchvision.models' has no attribute 'restnet18'
+
+▶️ [resnet18] 시작: 2025-05-29T15:33:45.097649
+✅ [resnet18] 완료: Top1=0.6976, Top5=0.8908, Conf=0.7202, Time=19.21ms, Size=46.83MB
+
+▶️ [resnet50] 시작: 2025-05-29T16:02:29.177972
+✅ [resnet50] 완료: Top1=0.8035, Top5=0.9513, Conf=0.3961, Time=58.32ms, Size=102.54MB
+
+▶️ [shufflenet_v2_x0_5] 시작: 2025-05-29T17:23:13.944862
+✅ [shufflenet_v2_x0_5] 완료: Top1=0.6055, Top5=0.8175, Conf=0.6562, Time=7.73ms, Size=5.61MB
+
+▶️ [shufflenet_v2_x1_0] 시작: 2025-05-29T17:48:22.725195
+✅ [shufflenet_v2_x1_0] 완료: Top1=0.6936, Top5=0.8832, Conf=0.7658, Time=14.49ms, Size=9.28MB
+
+▶️ [shufflenet_v2_x1_5] 시작: 2025-05-29T19:34:16.280319
+✅ [shufflenet_v2_x1_5] 완료: Top1=0.7278, Top5=0.9105, Conf=0.4071, Time=16.83ms, Size=14.22MB
+
+▶️ [shufflenet_v2_x2_0] 시작: 2025-05-29T20:20:01.199479
+✅ [shufflenet_v2_x2_0] 완료: Top1=0.7621, Top5=0.9288, Conf=0.4634, Time=31.51ms, Size=29.81MB
+
+▶️ [squeezenet1_0] 시작: 2025-05-29T21:08:29.384943
+✅ [squeezenet1_0] 완료: Top1=0.5809, Top5=0.8042, Conf=0.5850, Time=48.26ms, Size=5.01MB
+
+▶️ [squeezenet1_1] 시작: 2025-05-29T22:17:54.220356
+✅ [squeezenet1_1] 완료: Top1=0.5818, Top5=0.8062, Conf=0.5902, Time=22.28ms, Size=4.96MB
+
+[squeezenet1_1] 시작: 2025-05-30T02:39:44.427082
+
+[squeezenet1_1] 시작: 2025-05-30T02:40:16.712818
+
+[mobilenet_v3_small] 시작: 2025-05-30T02:52:15.306403

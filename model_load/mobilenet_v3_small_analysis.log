@@ -1,0 +1,151 @@
+
+
+================================================================================
+실행 시간: 2025-06-02 17:11:36
+Python 버전: 3.10.16 (main, Dec 11 2024, 16:24:50) [GCC 11.2.0]
+PyTorch 버전: 2.5.1
+CUDA 사용 가능: False
+================================================================================
+[17:11:36] [INFO] 
+============================================================
+[17:11:36] [INFO] mobilenet_v3_small 로드 및 분석 시작
+[17:11:36] [INFO] ============================================================
+[17:11:36] [INFO] 
+1. 모델 로드 중...
+[17:11:36] [INFO] ✓ mobilenet_v3_small 로드 완료
+[17:11:36] [INFO] 
+2. 전체 파라미터 분석
+[17:11:36] [INFO] 총 파라미터 수: 2,542,856
+[17:11:36] [INFO] 학습 가능한 파라미터: 2,542,856
+[17:11:36] [INFO] 모델 크기 (MB): 9.70
+[17:11:36] [INFO] 
+3. Conv2d 레이어 상세 분석
+[17:11:36] [INFO] Layer Name                               In     Out    Kernel     Groups   Params    
+[17:11:36] [INFO] ------------------------------------------------------------------------------------------
+[17:11:36] [INFO] features.0.0                             3      16     (3, 3)     1        432       
+[17:11:36] [INFO] features.1.block.0.0                     16     16     (3, 3)     16       144       
+[17:11:36] [INFO] features.1.block.1.fc1                   16     8      (1, 1)     1        136       
+[17:11:36] [INFO] features.1.block.1.fc2                   8      16     (1, 1)     1        144       
+[17:11:36] [INFO] features.1.block.2.0                     16     16     (1, 1)     1        256       
+[17:11:36] [INFO] features.2.block.0.0                     16     72     (1, 1)     1        1,152     
+[17:11:36] [INFO] features.2.block.1.0                     72     72     (3, 3)     72       648       
+[17:11:36] [INFO] features.2.block.2.0                     72     24     (1, 1)     1        1,728     
+[17:11:36] [INFO] features.3.block.0.0                     24     88     (1, 1)     1        2,112     
+[17:11:36] [INFO] features.3.block.1.0                     88     88     (3, 3)     88       792       
+[17:11:36] [INFO] features.3.block.2.0                     88     24     (1, 1)     1        2,112     
+[17:11:36] [INFO] features.4.block.0.0                     24     96     (1, 1)     1        2,304     
+[17:11:36] [INFO] features.4.block.1.0                     96     96     (5, 5)     96       2,400     
+[17:11:36] [INFO] features.4.block.2.fc1                   96     24     (1, 1)     1        2,328     
+[17:11:36] [INFO] features.4.block.2.fc2                   24     96     (1, 1)     1        2,400     
+[17:11:36] [INFO] features.4.block.3.0                     96     40     (1, 1)     1        3,840     
+[17:11:36] [INFO] features.5.block.0.0                     40     240    (1, 1)     1        9,600     
+[17:11:36] [INFO] features.5.block.1.0                     240    240    (5, 5)     240      6,000     
+[17:11:36] [INFO] features.5.block.2.fc1                   240    64     (1, 1)     1        15,424    
+[17:11:36] [INFO] features.5.block.2.fc2                   64     240    (1, 1)     1        15,600    
+[17:11:36] [INFO] features.5.block.3.0                     240    40     (1, 1)     1        9,600     
+[17:11:36] [INFO] features.6.block.0.0                     40     240    (1, 1)     1        9,600     
+[17:11:36] [INFO] features.6.block.1.0                     240    240    (5, 5)     240      6,000     
+[17:11:36] [INFO] features.6.block.2.fc1                   240    64     (1, 1)     1        15,424    
+[17:11:36] [INFO] features.6.block.2.fc2                   64     240    (1, 1)     1        15,600    
+[17:11:36] [INFO] features.6.block.3.0                     240    40     (1, 1)     1        9,600     
+[17:11:36] [INFO] features.7.block.0.0                     40     120    (1, 1)     1        4,800     
+[17:11:36] [INFO] features.7.block.1.0                     120    120    (5, 5)     120      3,000     
+[17:11:36] [INFO] features.7.block.2.fc1                   120    32     (1, 1)     1        3,872     
+[17:11:36] [INFO] features.7.block.2.fc2                   32     120    (1, 1)     1        3,960     
+[17:11:36] [INFO] features.7.block.3.0                     120    48     (1, 1)     1        5,760     
+[17:11:36] [INFO] features.8.block.0.0                     48     144    (1, 1)     1        6,912     
+[17:11:36] [INFO] features.8.block.1.0                     144    144    (5, 5)     144      3,600     
+[17:11:36] [INFO] features.8.block.2.fc1                   144    40     (1, 1)     1        5,800     
+[17:11:36] [INFO] features.8.block.2.fc2                   40     144    (1, 1)     1        5,904     
+[17:11:36] [INFO] features.8.block.3.0                     144    48     (1, 1)     1        6,912     
+[17:11:36] [INFO] features.9.block.0.0                     48     288    (1, 1)     1        13,824    
+[17:11:36] [INFO] features.9.block.1.0                     288    288    (5, 5)     288      7,200     
+[17:11:36] [INFO] features.9.block.2.fc1                   288    72     (1, 1)     1        20,808    
+[17:11:36] [INFO] features.9.block.2.fc2                   72     288    (1, 1)     1        21,024    
+[17:11:36] [INFO] features.9.block.3.0                     288    96     (1, 1)     1        27,648    
+[17:11:36] [INFO] features.10.block.0.0                    96     576    (1, 1)     1        55,296    
+[17:11:36] [INFO] features.10.block.1.0                    576    576    (5, 5)     576      14,400    
+[17:11:36] [INFO] features.10.block.2.fc1                  576    144    (1, 1)     1        83,088    
+[17:11:36] [INFO] features.10.block.2.fc2                  144    576    (1, 1)     1        83,520    
+[17:11:36] [INFO] features.10.block.3.0                    576    96     (1, 1)     1        55,296    
+[17:11:36] [INFO] features.11.block.0.0                    96     576    (1, 1)     1        55,296    
+[17:11:36] [INFO] features.11.block.1.0                    576    576    (5, 5)     576      14,400    
+[17:11:36] [INFO] features.11.block.2.fc1                  576    144    (1, 1)     1        83,088    
+[17:11:36] [INFO] features.11.block.2.fc2                  144    576    (1, 1)     1        83,520    
+[17:11:36] [INFO] features.11.block.3.0                    576    96     (1, 1)     1        55,296    
+[17:11:36] [INFO] features.12.0                            96     576    (1, 1)     1        55,296    
+[17:11:36] [INFO] 
+총 Conv2d 레이어 수: 52
+[17:11:36] [INFO] Conv2d 레이어 총 파라미터: 914,896 (36.0%)
+[17:11:36] [INFO] 
+4. 프루닝 가능한 레이어 분석
+[17:11:36] [INFO] 프루닝 가능한 레이어 수: 41
+[17:11:36] [INFO] 프루닝 가능한 파라미터: 856,312
+[17:11:36] [INFO] 
+프루닝 가능한 레이어 목록:
+[17:11:36] [INFO]   [1] features.0.0 - out_channels: 16, params: 432
+[17:11:36] [INFO]   [2] features.1.block.1.fc1 - out_channels: 8, params: 136
+[17:11:36] [INFO]   [3] features.1.block.1.fc2 - out_channels: 16, params: 144
+[17:11:36] [INFO]   [4] features.1.block.2.0 - out_channels: 16, params: 256
+[17:11:36] [INFO]   [5] features.2.block.0.0 - out_channels: 72, params: 1,152
+[17:11:36] [INFO]   [6] features.2.block.2.0 - out_channels: 24, params: 1,728
+[17:11:36] [INFO]   [7] features.3.block.0.0 - out_channels: 88, params: 2,112
+[17:11:36] [INFO]   [8] features.3.block.2.0 - out_channels: 24, params: 2,112
+[17:11:36] [INFO]   [9] features.4.block.0.0 - out_channels: 96, params: 2,304
+[17:11:36] [INFO]   [10] features.4.block.2.fc1 - out_channels: 24, params: 2,328
+[17:11:36] [INFO]   [11] features.4.block.2.fc2 - out_channels: 96, params: 2,400
+[17:11:36] [INFO]   [12] features.4.block.3.0 - out_channels: 40, params: 3,840
+[17:11:36] [INFO]   [13] features.5.block.0.0 - out_channels: 240, params: 9,600
+[17:11:36] [INFO]   [14] features.5.block.2.fc1 - out_channels: 64, params: 15,424
+[17:11:36] [INFO]   [15] features.5.block.2.fc2 - out_channels: 240, params: 15,600
+[17:11:36] [INFO]   [16] features.5.block.3.0 - out_channels: 40, params: 9,600
+[17:11:36] [INFO]   [17] features.6.block.0.0 - out_channels: 240, params: 9,600
+[17:11:36] [INFO]   [18] features.6.block.2.fc1 - out_channels: 64, params: 15,424
+[17:11:36] [INFO]   [19] features.6.block.2.fc2 - out_channels: 240, params: 15,600
+[17:11:36] [INFO]   [20] features.6.block.3.0 - out_channels: 40, params: 9,600
+[17:11:36] [INFO]   [21] features.7.block.0.0 - out_channels: 120, params: 4,800
+[17:11:36] [INFO]   [22] features.7.block.2.fc1 - out_channels: 32, params: 3,872
+[17:11:36] [INFO]   [23] features.7.block.2.fc2 - out_channels: 120, params: 3,960
+[17:11:36] [INFO]   [24] features.7.block.3.0 - out_channels: 48, params: 5,760
+[17:11:36] [INFO]   [25] features.8.block.0.0 - out_channels: 144, params: 6,912
+[17:11:36] [INFO]   [26] features.8.block.2.fc1 - out_channels: 40, params: 5,800
+[17:11:36] [INFO]   [27] features.8.block.2.fc2 - out_channels: 144, params: 5,904
+[17:11:36] [INFO]   [28] features.8.block.3.0 - out_channels: 48, params: 6,912
+[17:11:36] [INFO]   [29] features.9.block.0.0 - out_channels: 288, params: 13,824
+[17:11:36] [INFO]   [30] features.9.block.2.fc1 - out_channels: 72, params: 20,808
+[17:11:36] [INFO]   [31] features.9.block.2.fc2 - out_channels: 288, params: 21,024
+[17:11:36] [INFO]   [32] features.9.block.3.0 - out_channels: 96, params: 27,648
+[17:11:36] [INFO]   [33] features.10.block.0.0 - out_channels: 576, params: 55,296
+[17:11:36] [INFO]   [34] features.10.block.2.fc1 - out_channels: 144, params: 83,088
+[17:11:36] [INFO]   [35] features.10.block.2.fc2 - out_channels: 576, params: 83,520
+[17:11:36] [INFO]   [36] features.10.block.3.0 - out_channels: 96, params: 55,296
+[17:11:36] [INFO]   [37] features.11.block.0.0 - out_channels: 576, params: 55,296
+[17:11:36] [INFO]   [38] features.11.block.2.fc1 - out_channels: 144, params: 83,088
+[17:11:36] [INFO]   [39] features.11.block.2.fc2 - out_channels: 576, params: 83,520
+[17:11:36] [INFO]   [40] features.11.block.3.0 - out_channels: 96, params: 55,296
+[17:11:36] [INFO]   [41] features.12.0 - out_channels: 576, params: 55,296
+[17:11:36] [INFO] 
+5. 레이어 타입별 통계
+[17:11:36] [INFO]   Conv2d: 52
+[17:11:36] [INFO]   Conv2dNormActivation: 34
+[17:11:36] [INFO]   BatchNorm2d: 34
+[17:11:36] [INFO]   Hardswish: 19
+[17:11:36] [INFO]   ReLU: 14
+[17:11:36] [INFO]   Sequential: 13
+[17:11:36] [INFO]   InvertedResidual: 11
+[17:11:36] [INFO]   AdaptiveAvgPool2d: 10
+[17:11:36] [INFO]   SqueezeExcitation: 9
+[17:11:36] [INFO]   Hardsigmoid: 9
+[17:11:36] [INFO]   Linear: 2
+[17:11:36] [INFO] 
+6. 분석 요약
+[17:11:36] [INFO] 모델: mobilenet_v3_small
+[17:11:36] [INFO] 총 레이어 수: 209
+[17:11:36] [INFO] 총 파라미터: 2,542,856
+[17:11:36] [INFO] 모델 크기: 9.70 MB
+[17:11:36] [INFO] Conv2d 레이어: 52개
+[17:11:36] [INFO] 프루닝 가능 레이어: 41개
+[17:11:36] [INFO] 
+✓ 분석 완료!
+[17:11:36] [INFO] 로그 파일: /home/minha/raspberrypi/model_load/mobilenet_v3_small_analysis.log
+[17:11:36] [INFO] 에러 로그: /home/minha/raspberrypi/model_load/mobilenet_v3_small_errors.log

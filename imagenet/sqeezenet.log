@@ -1,0 +1,3918 @@
+
+================================================================================
+[squeezenet1_1] 상세 예측 로그 - 2025-05-30T02:40:16.712838
+================================================================================
+
+[Image #1]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00000293.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n02640242 (sturgeon) [idx: 394]
+  신뢰도: 0.3340
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02640242 (sturgeon) - 0.4280
+    2. n02641379 (gar) - 0.3242
+    3. n01873310 (platypus) - 0.0898
+    4. n02526121 (eel) - 0.0889
+    5. n01695060 (Komodo_dragon) - 0.0691
+
+[Image #2]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00002138.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n02174001 (rhinoceros_beetle) [idx: 306]
+  신뢰도: 0.5324
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02174001 (rhinoceros_beetle) - 0.6415
+    2. n04090263 (rifle) - 0.1978
+    3. n02536864 (coho) - 0.0643
+    4. n04067472 (reel) - 0.0551
+    5. n01440764 (tench) - 0.0412
+
+[Image #3]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00003014.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n03770439 (miniskirt) [idx: 655]
+  신뢰도: 0.0992
+  정답여부: 틀림
+  Top-5 예측:
+    1. n03770439 (miniskirt) - 0.3131
+    2. n03980874 (poncho) - 0.1939
+    3. n04371774 (swing) - 0.1922
+    4. n02963159 (cardigan) - 0.1599
+    5. n04325704 (stole) - 0.1408
+
+[Image #4]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00006697.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9916
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9958
+    2. n07716358 (zucchini) - 0.0027
+    3. n03134739 (croquet_ball) - 0.0007
+    4. n02514041 (barracouta) - 0.0005
+    5. n03000684 (chain_saw) - 0.0004
+
+[Image #5]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00007197.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n07716358 (zucchini) [idx: 939]
+  신뢰도: 0.8018
+  정답여부: 틀림
+  Top-5 예측:
+    1. n07716358 (zucchini) - 0.8079
+    2. n01440764 (tench) - 0.1887
+    3. n02526121 (eel) - 0.0015
+    4. n02514041 (barracouta) - 0.0010
+    5. n07716906 (spaghetti_squash) - 0.0009
+
+[Image #6]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00009111.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9739
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9855
+    2. n01945685 (slug) - 0.0059
+    3. n04067472 (reel) - 0.0050
+    4. n02077923 (sea_lion) - 0.0020
+    5. n04090263 (rifle) - 0.0016
+
+[Image #7]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00009191.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9436
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9442
+    2. n02514041 (barracouta) - 0.0446
+    3. n02536864 (coho) - 0.0070
+    4. n02640242 (sturgeon) - 0.0027
+    5. n02641379 (gar) - 0.0015
+
+[Image #8]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00009346.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9796
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9798
+    2. n02514041 (barracouta) - 0.0188
+    3. n02641379 (gar) - 0.0012
+    4. n01983481 (American_lobster) - 0.0002
+    5. n01443537 (goldfish) - 0.0001
+
+[Image #9]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00009379.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9740
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9740
+    2. n02514041 (barracouta) - 0.0258
+    3. n02641379 (gar) - 0.0002
+    4. n02640242 (sturgeon) - 0.0001
+    5. n02536864 (coho) - 0.0000
+
+[Image #10]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00009396.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9967
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9979
+    2. n02514041 (barracouta) - 0.0007
+    3. n01983481 (American_lobster) - 0.0006
+    4. n01978287 (Dungeness_crab) - 0.0004
+    5. n13054560 (bolete) - 0.0004
+
+[Image #11]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00010306.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n02051845 (pelican) [idx: 144]
+  신뢰도: 0.4025
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02051845 (pelican) - 0.4898
+    2. n01608432 (kite) - 0.2932
+    3. n02011460 (bittern) - 0.0986
+    4. n01807496 (partridge) - 0.0597
+    5. n02641379 (gar) - 0.0587
+
+[Image #12]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00011233.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9999
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9999
+    2. n02536864 (coho) - 0.0001
+    3. n02514041 (barracouta) - 0.0001
+    4. n13054560 (bolete) - 0.0000
+    5. n07754684 (jackfruit) - 0.0000
+
+[Image #13]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00011993.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9994
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9994
+    2. n02514041 (barracouta) - 0.0006
+    3. n02536864 (coho) - 0.0000
+    4. n02641379 (gar) - 0.0000
+    5. n02640242 (sturgeon) - 0.0000
+
+[Image #14]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00012503.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9876
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9877
+    2. n02514041 (barracouta) - 0.0122
+    3. n02641379 (gar) - 0.0001
+    4. n07754684 (jackfruit) - 0.0000
+    5. n01677366 (common_iguana) - 0.0000
+
+[Image #15]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00013716.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9996
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9996
+    2. n02514041 (barracouta) - 0.0004
+    3. n02641379 (gar) - 0.0000
+    4. n01985128 (crayfish) - 0.0000
+    5. n02536864 (coho) - 0.0000
+
+[Image #16]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00016018.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9887
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9906
+    2. n02536864 (coho) - 0.0065
+    3. n02526121 (eel) - 0.0011
+    4. n01873310 (platypus) - 0.0009
+    5. n02641379 (gar) - 0.0009
+
+[Image #17]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00017472.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9995
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9997
+    2. n02526121 (eel) - 0.0002
+    3. n02514041 (barracouta) - 0.0000
+    4. n02641379 (gar) - 0.0000
+    5. n02536864 (coho) - 0.0000
+
+[Image #18]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00017699.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9998
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9998
+    2. n01945685 (slug) - 0.0002
+    3. n02526121 (eel) - 0.0000
+    4. n02536864 (coho) - 0.0000
+    5. n01632777 (axolotl) - 0.0000
+
+[Image #19]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00017700.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9999
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9999
+    2. n02514041 (barracouta) - 0.0001
+    3. n02526121 (eel) - 0.0000
+    4. n02641379 (gar) - 0.0000
+    5. n02536864 (coho) - 0.0000
+
+[Image #20]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00017995.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.8856
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9215
+    2. n02514041 (barracouta) - 0.0504
+    3. n02536864 (coho) - 0.0129
+    4. n02640242 (sturgeon) - 0.0100
+    5. n02641379 (gar) - 0.0052
+
+[Image #21]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00018317.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.4882
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.7151
+    2. n07615774 (ice_lolly) - 0.1269
+    3. n02835271 (bicycle-built-for-two) - 0.0790
+    4. n02837789 (bikini) - 0.0427
+    5. n04136333 (sarong) - 0.0362
+
+[Image #22]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00021740.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.8554
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.8862
+    2. n02454379 (armadillo) - 0.0617
+    3. n03000247 (chain_mail) - 0.0274
+    4. n02536864 (coho) - 0.0188
+    5. n02526121 (eel) - 0.0059
+
+[Image #23]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00023559.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9998
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9998
+    2. n02514041 (barracouta) - 0.0002
+    3. n02641379 (gar) - 0.0000
+    4. n02536864 (coho) - 0.0000
+    5. n02526121 (eel) - 0.0000
+
+[Image #24]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00024235.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9920
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9920
+    2. n02514041 (barracouta) - 0.0077
+    3. n02641379 (gar) - 0.0002
+    4. n01644373 (tree_frog) - 0.0000
+    5. n01630670 (common_newt) - 0.0000
+
+[Image #25]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00024327.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9999
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9999
+    2. n02514041 (barracouta) - 0.0001
+    3. n02536864 (coho) - 0.0000
+    4. n02526121 (eel) - 0.0000
+    5. n02641379 (gar) - 0.0000
+
+[Image #26]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00025129.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.6139
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.6355
+    2. n02640242 (sturgeon) - 0.3007
+    3. n02514041 (barracouta) - 0.0284
+    4. n02641379 (gar) - 0.0206
+    5. n02799071 (baseball) - 0.0148
+
+[Image #27]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00025527.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9961
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9962
+    2. n02514041 (barracouta) - 0.0031
+    3. n01667778 (terrapin) - 0.0006
+    4. n01667114 (mud_turtle) - 0.0001
+    5. n02536864 (coho) - 0.0000
+
+[Image #28]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00026064.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.4037
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.4452
+    2. n12144580 (corn) - 0.2956
+    3. n13133613 (ear) - 0.2188
+    4. n02655020 (puffer) - 0.0226
+    5. n02514041 (barracouta) - 0.0178
+
+[Image #29]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00026397.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 1.0000
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 1.0000
+    2. n02514041 (barracouta) - 0.0000
+    3. n07754684 (jackfruit) - 0.0000
+    4. n13054560 (bolete) - 0.0000
+    5. n01632777 (axolotl) - 0.0000
+
+[Image #30]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00028158.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.2565
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.4071
+    2. n01873310 (platypus) - 0.3295
+    3. n01498041 (stingray) - 0.1998
+    4. n01494475 (hammerhead) - 0.0385
+    5. n02640242 (sturgeon) - 0.0251
+
+[Image #31]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00029930.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9779
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9810
+    2. n02526121 (eel) - 0.0164
+    3. n02514041 (barracouta) - 0.0012
+    4. n01924916 (flatworm) - 0.0009
+    5. n02606052 (rock_beauty) - 0.0004
+
+[Image #32]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00030740.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.8799
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.8928
+    2. n02514041 (barracouta) - 0.0611
+    3. n02536864 (coho) - 0.0350
+    4. n01983481 (American_lobster) - 0.0063
+    5. n02640242 (sturgeon) - 0.0048
+
+[Image #33]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00031094.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n02879718 (bow) [idx: 456]
+  신뢰도: 0.1435
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02879718 (bow) - 0.3068
+    2. n03649909 (lawn_mower) - 0.2435
+    3. n03785016 (moped) - 0.1960
+    4. n04336792 (stretcher) - 0.1493
+    5. n04509417 (unicycle) - 0.1043
+
+[Image #34]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00031333.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9875
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9939
+    2. n01945685 (slug) - 0.0024
+    3. n02514041 (barracouta) - 0.0017
+    4. n02526121 (eel) - 0.0015
+    5. n01944390 (snail) - 0.0006
+
+[Image #35]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00034654.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9916
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9917
+    2. n02514041 (barracouta) - 0.0077
+    3. n02641379 (gar) - 0.0005
+    4. n02536864 (coho) - 0.0001
+    5. n02640242 (sturgeon) - 0.0000
+
+[Image #36]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00037375.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n02536864 (coho) [idx: 391]
+  신뢰도: 0.3282
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02536864 (coho) - 0.3687
+    2. n02514041 (barracouta) - 0.3479
+    3. n01440764 (tench) - 0.1796
+    4. n02641379 (gar) - 0.0674
+    5. n04067472 (reel) - 0.0363
+
+[Image #37]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00037383.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01689811 (alligator_lizard) [idx: 44]
+  신뢰도: 0.2543
+  정답여부: 틀림
+  Top-5 예측:
+    1. n01689811 (alligator_lizard) - 0.4109
+    2. n01985128 (crayfish) - 0.2161
+    3. n01990800 (isopod) - 0.1391
+    4. n01697457 (African_crocodile) - 0.1199
+    5. n01440764 (tench) - 0.1139
+
+[Image #38]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00037596.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9659
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9713
+    2. n02536864 (coho) - 0.0155
+    3. n01491361 (tiger_shark) - 0.0113
+    4. n01494475 (hammerhead) - 0.0011
+    5. n02423022 (gazelle) - 0.0008
+
+[Image #39]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00037834.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.8933
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.8953
+    2. n02536864 (coho) - 0.0625
+    3. n02514041 (barracouta) - 0.0278
+    4. n02526121 (eel) - 0.0124
+    5. n02641379 (gar) - 0.0020
+
+[Image #40]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00037861.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9736
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9854
+    2. n02514041 (barracouta) - 0.0126
+    3. n04371774 (swing) - 0.0008
+    4. n07716358 (zucchini) - 0.0006
+    5. n02797295 (barrow) - 0.0006
+
+[Image #41]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00039905.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 1.0000
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 1.0000
+    2. n02514041 (barracouta) - 0.0000
+    3. n02526121 (eel) - 0.0000
+    4. n07754684 (jackfruit) - 0.0000
+    5. n02536864 (coho) - 0.0000
+
+[Image #42]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00040358.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9967
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9979
+    2. n02514041 (barracouta) - 0.0015
+    3. n07754684 (jackfruit) - 0.0004
+    4. n02536864 (coho) - 0.0001
+    5. n12144580 (corn) - 0.0001
+
+[Image #43]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00040833.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9985
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9985
+    2. n02514041 (barracouta) - 0.0015
+    3. n02536864 (coho) - 0.0000
+    4. n07754684 (jackfruit) - 0.0000
+    5. n02526121 (eel) - 0.0000
+
+[Image #44]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00041939.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n03134739 (croquet_ball) [idx: 522]
+  신뢰도: 0.2989
+  정답여부: 틀림
+  Top-5 예측:
+    1. n03134739 (croquet_ball) - 0.4977
+    2. n01440764 (tench) - 0.3061
+    3. n03259280 (Dutch_oven) - 0.0967
+    4. n03498962 (hatchet) - 0.0620
+    5. n04482393 (tricycle) - 0.0374
+
+[Image #45]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00045866.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 1.0000
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 1.0000
+    2. n02514041 (barracouta) - 0.0000
+    3. n02536864 (coho) - 0.0000
+    4. n02641379 (gar) - 0.0000
+    5. n07754684 (jackfruit) - 0.0000
+
+[Image #46]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00045880.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9934
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9937
+    2. n02514041 (barracouta) - 0.0043
+    3. n02536864 (coho) - 0.0015
+    4. n02641379 (gar) - 0.0004
+    5. n02640242 (sturgeon) - 0.0001
+
+[Image #47]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00046252.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.6626
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.6808
+    2. n02526121 (eel) - 0.3021
+    3. n07716358 (zucchini) - 0.0097
+    4. n02641379 (gar) - 0.0045
+    5. n01632777 (axolotl) - 0.0029
+
+[Image #48]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00046499.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9993
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9994
+    2. n02514041 (barracouta) - 0.0006
+    3. n13054560 (bolete) - 0.0000
+    4. n07754684 (jackfruit) - 0.0000
+    5. n02536864 (coho) - 0.0000
+
+[Image #49]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00048204.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n02514041 (barracouta) [idx: 389]
+  신뢰도: 0.6954
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02514041 (barracouta) - 0.6957
+    2. n01440764 (tench) - 0.1687
+    3. n02641379 (gar) - 0.1270
+    4. n02640242 (sturgeon) - 0.0066
+    5. n02536864 (coho) - 0.0019
+
+[Image #50]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01440764/ILSVRC2012_val_00048969.JPEG
+  정답: n01440764 (tench) [idx: 0]
+  예측: n01440764 (tench) [idx: 0]
+  신뢰도: 0.9999
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01440764 (tench) - 0.9999
+    2. n02514041 (barracouta) - 0.0001
+    3. n02536864 (coho) - 0.0000
+    4. n01978287 (Dungeness_crab) - 0.0000
+    5. n02641379 (gar) - 0.0000
+
+[Image #101]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01484850/ILSVRC2012_val_00002338.JPEG
+  정답: n01484850 (great_white_shark) [idx: 2]
+  예측: n01484850 (great_white_shark) [idx: 2]
+  신뢰도: 0.6404
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01484850 (great_white_shark) - 0.6735
+    2. n01491361 (tiger_shark) - 0.0993
+    3. n10565667 (scuba_diver) - 0.0801
+    4. n01494475 (hammerhead) - 0.0792
+    5. n04251144 (snorkel) - 0.0679
+
+[Image #201]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01494475/ILSVRC2012_val_00001676.JPEG
+  정답: n01494475 (hammerhead) [idx: 4]
+  예측: n02006656 (spoonbill) [idx: 129]
+  신뢰도: 0.3934
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02006656 (spoonbill) - 0.6007
+    2. n02007558 (flamingo) - 0.1450
+    3. n02058221 (albatross) - 0.0978
+    4. n02091134 (whippet) - 0.0804
+    5. n02091244 (Ibizan_hound) - 0.0761
+
+[Image #301]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01498041/ILSVRC2012_val_00001935.JPEG
+  정답: n01498041 (stingray) [idx: 6]
+  예측: n01498041 (stingray) [idx: 6]
+  신뢰도: 0.6822
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01498041 (stingray) - 0.6864
+    2. n01496331 (electric_ray) - 0.3079
+    3. n03717622 (manhole_cover) - 0.0034
+    4. n02655020 (puffer) - 0.0016
+    5. n04332243 (strainer) - 0.0007
+
+[Image #401]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01514859/ILSVRC2012_val_00001114.JPEG
+  정답: n01514859 (hen) [idx: 8]
+  예측: n01514859 (hen) [idx: 8]
+  신뢰도: 0.9970
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01514859 (hen) - 0.9973
+    2. n01514668 (cock) - 0.0016
+    3. n01860187 (black_swan) - 0.0010
+    4. n01797886 (ruffed_grouse) - 0.0001
+    5. n02437616 (llama) - 0.0001
+
+[Image #501]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01530575/ILSVRC2012_val_00000651.JPEG
+  정답: n01530575 (brambling) [idx: 10]
+  예측: n01530575 (brambling) [idx: 10]
+  신뢰도: 0.8304
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01530575 (brambling) - 0.8849
+    2. n01797886 (ruffed_grouse) - 0.0578
+    3. n01807496 (partridge) - 0.0278
+    4. n01608432 (kite) - 0.0158
+    5. n01534433 (junco) - 0.0138
+
+[Image #601]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01532829/ILSVRC2012_val_00000873.JPEG
+  정답: n01532829 (house_finch) [idx: 12]
+  예측: n04192698 (shield) [idx: 787]
+  신뢰도: 0.1495
+  정답여부: 틀림
+  Top-5 예측:
+    1. n04192698 (shield) - 0.3638
+    2. n03763968 (military_uniform) - 0.2279
+    3. n01580077 (jay) - 0.2091
+    4. n02168699 (long-horned_beetle) - 0.1062
+    5. n01582220 (magpie) - 0.0931
+
+[Image #701]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01537544/ILSVRC2012_val_00000414.JPEG
+  정답: n01537544 (indigo_bunting) [idx: 14]
+  예측: n01537544 (indigo_bunting) [idx: 14]
+  신뢰도: 0.9945
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01537544 (indigo_bunting) - 0.9946
+    2. n02009229 (little_blue_heron) - 0.0040
+    3. n01580077 (jay) - 0.0012
+    4. n01818515 (macaw) - 0.0001
+    5. n01828970 (bee_eater) - 0.0001
+
+[Image #801]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01560419/ILSVRC2012_val_00000198.JPEG
+  정답: n01560419 (bulbul) [idx: 16]
+  예측: n01560419 (bulbul) [idx: 16]
+  신뢰도: 0.9613
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01560419 (bulbul) - 0.9698
+    2. n01531178 (goldfinch) - 0.0212
+    3. n01833805 (hummingbird) - 0.0039
+    4. n02006656 (spoonbill) - 0.0031
+    5. n01818515 (macaw) - 0.0019
+
+[Image #901]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01582220/ILSVRC2012_val_00000476.JPEG
+  정답: n01582220 (magpie) [idx: 18]
+  예측: n01582220 (magpie) [idx: 18]
+  신뢰도: 0.6737
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01582220 (magpie) - 0.7253
+    2. n02018207 (American_coot) - 0.1622
+    3. n01855672 (goose) - 0.0507
+    4. n02037110 (oystercatcher) - 0.0312
+    5. n02002724 (black_stork) - 0.0306
+
+[Image #1001]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01601694/ILSVRC2012_val_00000962.JPEG
+  정답: n01601694 (water_ouzel) [idx: 20]
+  예측: n01601694 (water_ouzel) [idx: 20]
+  신뢰도: 0.9954
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01601694 (water_ouzel) - 0.9977
+    2. n02058221 (albatross) - 0.0008
+    3. n02025239 (ruddy_turnstone) - 0.0005
+    4. n01855672 (goose) - 0.0005
+    5. n01847000 (drake) - 0.0004
+
+[Image #1101]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01614925/ILSVRC2012_val_00000128.JPEG
+  정답: n01614925 (bald_eagle) [idx: 22]
+  예측: n01608432 (kite) [idx: 21]
+  신뢰도: 0.8974
+  정답여부: 틀림
+  Top-5 예측:
+    1. n01608432 (kite) - 0.9163
+    2. n01616318 (vulture) - 0.0312
+    3. n01797886 (ruffed_grouse) - 0.0201
+    4. n01582220 (magpie) - 0.0171
+    5. n01614925 (bald_eagle) - 0.0153
+
+[Image #1201]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01622779/ILSVRC2012_val_00000318.JPEG
+  정답: n01622779 (great_grey_owl) [idx: 24]
+  예측: n01622779 (great_grey_owl) [idx: 24]
+  신뢰도: 0.9999
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01622779 (great_grey_owl) - 0.9999
+    2. n01616318 (vulture) - 0.0001
+    3. n02493509 (titi) - 0.0000
+    4. n01608432 (kite) - 0.0000
+    5. n02497673 (Madagascar_cat) - 0.0000
+
+[Image #1301]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01630670/ILSVRC2012_val_00000498.JPEG
+  정답: n01630670 (common_newt) [idx: 26]
+  예측: n01630670 (common_newt) [idx: 26]
+  신뢰도: 0.9914
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01630670 (common_newt) - 0.9927
+    2. n01631663 (eft) - 0.0059
+    3. n01632458 (spotted_salamander) - 0.0006
+    4. n02321529 (sea_cucumber) - 0.0005
+    5. n02640242 (sturgeon) - 0.0003
+
+[Image #1401]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01632458/ILSVRC2012_val_00000088.JPEG
+  정답: n01632458 (spotted_salamander) [idx: 28]
+  예측: n01632458 (spotted_salamander) [idx: 28]
+  신뢰도: 0.2831
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01632458 (spotted_salamander) - 0.4125
+    2. n01737021 (water_snake) - 0.3058
+    3. n01629819 (European_fire_salamander) - 0.1147
+    4. n01955084 (chiton) - 0.0839
+    5. n01784675 (centipede) - 0.0831
+
+[Image #1501]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01641577/ILSVRC2012_val_00001652.JPEG
+  정답: n01641577 (bullfrog) [idx: 30]
+  예측: n01641577 (bullfrog) [idx: 30]
+  신뢰도: 0.6268
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01641577 (bullfrog) - 0.6289
+    2. n01644900 (tailed_frog) - 0.3320
+    3. n01644373 (tree_frog) - 0.0287
+    4. n01677366 (common_iguana) - 0.0059
+    5. n01694178 (African_chameleon) - 0.0044
+
+[Image #1601]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01644900/ILSVRC2012_val_00000037.JPEG
+  정답: n01644900 (tailed_frog) [idx: 32]
+  예측: n01630670 (common_newt) [idx: 26]
+  신뢰도: 0.2635
+  정답여부: 틀림
+  Top-5 예측:
+    1. n01630670 (common_newt) - 0.5160
+    2. n01632777 (axolotl) - 0.1640
+    3. n02167151 (ground_beetle) - 0.1219
+    4. n02229544 (cricket) - 0.1069
+    5. n02174001 (rhinoceros_beetle) - 0.0912
+
+[Image #1701]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01665541/ILSVRC2012_val_00000791.JPEG
+  정답: n01665541 (leatherback_turtle) [idx: 34]
+  예측: n02317335 (starfish) [idx: 327]
+  신뢰도: 0.2915
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02317335 (starfish) - 0.4793
+    2. n01753488 (horned_viper) - 0.1991
+    3. n01756291 (sidewinder) - 0.1905
+    4. n01729322 (hognose_snake) - 0.0705
+    5. n01755581 (diamondback) - 0.0605
+
+[Image #1801]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01667778/ILSVRC2012_val_00002832.JPEG
+  정답: n01667778 (terrapin) [idx: 36]
+  예측: n01667114 (mud_turtle) [idx: 35]
+  신뢰도: 0.7822
+  정답여부: 틀림
+  Top-5 예측:
+    1. n01667114 (mud_turtle) - 0.7846
+    2. n01669191 (box_turtle) - 0.1069
+    3. n01667778 (terrapin) - 0.1036
+    4. n01990800 (isopod) - 0.0033
+    5. n01986214 (hermit_crab) - 0.0016
+
+[Image #1901]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01675722/ILSVRC2012_val_00003904.JPEG
+  정답: n01675722 (banded_gecko) [idx: 38]
+  예측: n01689811 (alligator_lizard) [idx: 44]
+  신뢰도: 0.3759
+  정답여부: 틀림
+  Top-5 예측:
+    1. n01689811 (alligator_lizard) - 0.5069
+    2. n01685808 (whiptail) - 0.3078
+    3. n01675722 (banded_gecko) - 0.0805
+    4. n01985128 (crayfish) - 0.0610
+    5. n01978455 (rock_crab) - 0.0438
+
+[Image #2001]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01682714/ILSVRC2012_val_00001931.JPEG
+  정답: n01682714 (American_chameleon) [idx: 40]
+  예측: n01693334 (green_lizard) [idx: 46]
+  신뢰도: 0.4383
+  정답여부: 틀림
+  Top-5 예측:
+    1. n01693334 (green_lizard) - 0.4643
+    2. n01682714 (American_chameleon) - 0.3970
+    3. n01694178 (African_chameleon) - 0.1020
+    4. n01749939 (green_mamba) - 0.0218
+    5. n01729977 (green_snake) - 0.0149
+
+[Image #2101]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01687978/ILSVRC2012_val_00003821.JPEG
+  정답: n01687978 (agama) [idx: 42]
+  예측: n01677366 (common_iguana) [idx: 39]
+  신뢰도: 0.5250
+  정답여부: 틀림
+  Top-5 예측:
+    1. n01677366 (common_iguana) - 0.6411
+    2. n01695060 (Komodo_dragon) - 0.2162
+    3. n01688243 (frilled_lizard) - 0.0843
+    4. n01704323 (triceratops) - 0.0301
+    5. n02444819 (otter) - 0.0282
+
+[Image #2201]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01689811/ILSVRC2012_val_00001022.JPEG
+  정답: n01689811 (alligator_lizard) [idx: 44]
+  예측: n01689811 (alligator_lizard) [idx: 44]
+  신뢰도: 0.8871
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01689811 (alligator_lizard) - 0.8912
+    2. n01685808 (whiptail) - 0.0543
+    3. n01740131 (night_snake) - 0.0276
+    4. n01630670 (common_newt) - 0.0185
+    5. n01728572 (thunder_snake) - 0.0084
+
+[Image #2301]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01693334/ILSVRC2012_val_00000064.JPEG
+  정답: n01693334 (green_lizard) [idx: 46]
+  예측: n01682714 (American_chameleon) [idx: 40]
+  신뢰도: 0.4652
+  정답여부: 틀림
+  Top-5 예측:
+    1. n01682714 (American_chameleon) - 0.5031
+    2. n01693334 (green_lizard) - 0.2935
+    3. n01644373 (tree_frog) - 0.0866
+    4. n02259212 (leafhopper) - 0.0719
+    5. n02264363 (lacewing) - 0.0449
+
+[Image #2401]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01695060/ILSVRC2012_val_00000541.JPEG
+  정답: n01695060 (Komodo_dragon) [idx: 48]
+  예측: n01753488 (horned_viper) [idx: 66]
+  신뢰도: 0.5958
+  정답여부: 틀림
+  Top-5 예측:
+    1. n01753488 (horned_viper) - 0.7485
+    2. n01756291 (sidewinder) - 0.0986
+    3. n01689811 (alligator_lizard) - 0.0522
+    4. n01742172 (boa_constrictor) - 0.0517
+    5. n01695060 (Komodo_dragon) - 0.0490
+
+[Image #2501]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01698640/ILSVRC2012_val_00000090.JPEG
+  정답: n01698640 (American_alligator) [idx: 50]
+  예측: n02177972 (weevil) [idx: 307]
+  신뢰도: 0.5637
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02177972 (weevil) - 0.6020
+    2. n01698640 (American_alligator) - 0.2242
+    3. n01677366 (common_iguana) - 0.1013
+    4. n02168699 (long-horned_beetle) - 0.0449
+    5. n01694178 (African_chameleon) - 0.0276
+
+[Image #2601]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01728572/ILSVRC2012_val_00003569.JPEG
+  정답: n01728572 (thunder_snake) [idx: 52]
+  예측: n03814906 (necklace) [idx: 679]
+  신뢰도: 0.3796
+  정답여부: 틀림
+  Top-5 예측:
+    1. n03814906 (necklace) - 0.5767
+    2. n01728572 (thunder_snake) - 0.1927
+    3. n04026417 (purse) - 0.1042
+    4. n02883205 (bow_tie) - 0.0695
+    5. n02910353 (buckle) - 0.0569
+
+[Image #2701]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01729322/ILSVRC2012_val_00002568.JPEG
+  정답: n01729322 (hognose_snake) [idx: 54]
+  예측: n01735189 (garter_snake) [idx: 57]
+  신뢰도: 0.9529
+  정답여부: 틀림
+  Top-5 예측:
+    1. n01735189 (garter_snake) - 0.9604
+    2. n01685808 (whiptail) - 0.0187
+    3. n01930112 (nematode) - 0.0125
+    4. n01740131 (night_snake) - 0.0043
+    5. n01728572 (thunder_snake) - 0.0040
+
+[Image #2801]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01734418/ILSVRC2012_val_00000512.JPEG
+  정답: n01734418 (king_snake) [idx: 56]
+  예측: n01734418 (king_snake) [idx: 56]
+  신뢰도: 0.1761
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01734418 (king_snake) - 0.3620
+    2. n04033995 (quilt) - 0.2371
+    3. n03775071 (mitten) - 0.1519
+    4. n03998194 (prayer_rug) - 0.1341
+    5. n01751748 (sea_snake) - 0.1150
+
+[Image #2901]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01737021/ILSVRC2012_val_00000084.JPEG
+  정답: n01737021 (water_snake) [idx: 58]
+  예측: n02256656 (cicada) [idx: 316]
+  신뢰도: 0.1520
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02256656 (cicada) - 0.3265
+    2. n01629819 (European_fire_salamander) - 0.2396
+    3. n04275548 (spider_web) - 0.1973
+    4. n01641577 (bullfrog) - 0.1285
+    5. n01631663 (eft) - 0.1081
+
+[Image #3001]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01740131/ILSVRC2012_val_00000337.JPEG
+  정답: n01740131 (night_snake) [idx: 60]
+  예측: n01742172 (boa_constrictor) [idx: 61]
+  신뢰도: 0.3085
+  정답여부: 틀림
+  Top-5 예측:
+    1. n01742172 (boa_constrictor) - 0.3451
+    2. n01744401 (rock_python) - 0.2570
+    3. n01755581 (diamondback) - 0.2107
+    4. n01740131 (night_snake) - 0.1153
+    5. n01729322 (hognose_snake) - 0.0718
+
+[Image #3101]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01744401/ILSVRC2012_val_00000688.JPEG
+  정답: n01744401 (rock_python) [idx: 62]
+  예측: n01744401 (rock_python) [idx: 62]
+  신뢰도: 0.6990
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01744401 (rock_python) - 0.7016
+    2. n01742172 (boa_constrictor) - 0.2862
+    3. n01689811 (alligator_lizard) - 0.0050
+    4. n01729322 (hognose_snake) - 0.0049
+    5. n01740131 (night_snake) - 0.0023
+
+[Image #3201]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01749939/ILSVRC2012_val_00000298.JPEG
+  정답: n01749939 (green_mamba) [idx: 64]
+  예측: n01749939 (green_mamba) [idx: 64]
+  신뢰도: 0.8503
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01749939 (green_mamba) - 0.8503
+    2. n01729977 (green_snake) - 0.1174
+    3. n01739381 (vine_snake) - 0.0300
+    4. n01693334 (green_lizard) - 0.0012
+    5. n01682714 (American_chameleon) - 0.0010
+
+[Image #3301]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01753488/ILSVRC2012_val_00001582.JPEG
+  정답: n01753488 (horned_viper) [idx: 66]
+  예측: n01687978 (agama) [idx: 42]
+  신뢰도: 0.8346
+  정답여부: 틀림
+  Top-5 예측:
+    1. n01687978 (agama) - 0.9140
+    2. n01630670 (common_newt) - 0.0288
+    3. n01631663 (eft) - 0.0216
+    4. n01689811 (alligator_lizard) - 0.0193
+    5. n01688243 (frilled_lizard) - 0.0163
+
+[Image #3401]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01756291/ILSVRC2012_val_00001706.JPEG
+  정답: n01756291 (sidewinder) [idx: 68]
+  예측: n04120489 (running_shoe) [idx: 770]
+  신뢰도: 0.4054
+  정답여부: 틀림
+  Top-5 예측:
+    1. n04120489 (running_shoe) - 0.4831
+    2. n01930112 (nematode) - 0.2690
+    3. n01740131 (night_snake) - 0.1299
+    4. n01728572 (thunder_snake) - 0.0776
+    5. n02910353 (buckle) - 0.0404
+
+[Image #3501]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01770081/ILSVRC2012_val_00000107.JPEG
+  정답: n01770081 (harvestman) [idx: 70]
+  예측: n01770081 (harvestman) [idx: 70]
+  신뢰도: 0.9908
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01770081 (harvestman) - 0.9937
+    2. n01774384 (black_widow) - 0.0031
+    3. n02190166 (fly) - 0.0015
+    4. n02165105 (tiger_beetle) - 0.0011
+    5. n01773549 (barn_spider) - 0.0006
+
+[Image #3601]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01773157/ILSVRC2012_val_00001037.JPEG
+  정답: n01773157 (black_and_gold_garden_spider) [idx: 72]
+  예측: n01773157 (black_and_gold_garden_spider) [idx: 72]
+  신뢰도: 0.7047
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01773157 (black_and_gold_garden_spider) - 0.7190
+    2. n01773797 (garden_spider) - 0.2464
+    3. n01774384 (black_widow) - 0.0188
+    4. n04275548 (spider_web) - 0.0127
+    5. n01843065 (jacamar) - 0.0031
+
+[Image #3701]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01773797/ILSVRC2012_val_00000040.JPEG
+  정답: n01773797 (garden_spider) [idx: 74]
+  예측: n01773797 (garden_spider) [idx: 74]
+  신뢰도: 0.8712
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01773797 (garden_spider) - 0.8862
+    2. n01773549 (barn_spider) - 0.0585
+    3. n02219486 (ant) - 0.0335
+    4. n01776313 (tick) - 0.0134
+    5. n02206856 (bee) - 0.0084
+
+[Image #3801]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01774750/ILSVRC2012_val_00000396.JPEG
+  정답: n01774750 (tarantula) [idx: 76]
+  예측: n01774750 (tarantula) [idx: 76]
+  신뢰도: 0.8673
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01774750 (tarantula) - 0.9086
+    2. n02317335 (starfish) - 0.0347
+    3. n01770393 (scorpion) - 0.0206
+    4. n01978455 (rock_crab) - 0.0186
+    5. n01665541 (leatherback_turtle) - 0.0176
+
+[Image #3901]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01776313/ILSVRC2012_val_00000679.JPEG
+  정답: n01776313 (tick) [idx: 78]
+  예측: n01773549 (barn_spider) [idx: 73]
+  신뢰도: 0.6016
+  정답여부: 틀림
+  Top-5 예측:
+    1. n01773549 (barn_spider) - 0.6127
+    2. n01776313 (tick) - 0.3042
+    3. n01774384 (black_widow) - 0.0360
+    4. n01775062 (wolf_spider) - 0.0343
+    5. n02167151 (ground_beetle) - 0.0127
+
+[Image #4001]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01795545/ILSVRC2012_val_00000075.JPEG
+  정답: n01795545 (black_grouse) [idx: 80]
+  예측: n01795545 (black_grouse) [idx: 80]
+  신뢰도: 0.9995
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01795545 (black_grouse) - 0.9995
+    2. n01616318 (vulture) - 0.0003
+    3. n02017213 (European_gallinule) - 0.0001
+    4. n01514859 (hen) - 0.0000
+    5. n01514668 (cock) - 0.0000
+
+[Image #4101]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01797886/ILSVRC2012_val_00002539.JPEG
+  정답: n01797886 (ruffed_grouse) [idx: 82]
+  예측: n01797886 (ruffed_grouse) [idx: 82]
+  신뢰도: 0.6393
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01797886 (ruffed_grouse) - 0.6502
+    2. n01796340 (ptarmigan) - 0.3029
+    3. n01807496 (partridge) - 0.0205
+    4. n01798484 (prairie_chicken) - 0.0193
+    5. n01806567 (quail) - 0.0070
+
+[Image #4201]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01806143/ILSVRC2012_val_00001146.JPEG
+  정답: n01806143 (peacock) [idx: 84]
+  예측: n01806143 (peacock) [idx: 84]
+  신뢰도: 0.2806
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01806143 (peacock) - 0.5011
+    2. n02012849 (crane) - 0.1592
+    3. n01534433 (junco) - 0.1394
+    4. n01616318 (vulture) - 0.1287
+    5. n01514668 (cock) - 0.0717
+
+[Image #4301]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01807496/ILSVRC2012_val_00000576.JPEG
+  정답: n01807496 (partridge) [idx: 86]
+  예측: n01807496 (partridge) [idx: 86]
+  신뢰도: 0.6612
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01807496 (partridge) - 0.6620
+    2. n01797886 (ruffed_grouse) - 0.3101
+    3. n01806567 (quail) - 0.0272
+    4. n02013706 (limpkin) - 0.0004
+    5. n01798484 (prairie_chicken) - 0.0003
+
+[Image #4401]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01818515/ILSVRC2012_val_00001163.JPEG
+  정답: n01818515 (macaw) [idx: 88]
+  예측: n01818515 (macaw) [idx: 88]
+  신뢰도: 0.2383
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01818515 (macaw) - 0.3526
+    2. n01820546 (lorikeet) - 0.3285
+    3. n07753592 (banana) - 0.2181
+    4. n01560419 (bulbul) - 0.0632
+    5. n13133613 (ear) - 0.0376
+
+[Image #4501]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01820546/ILSVRC2012_val_00001749.JPEG
+  정답: n01820546 (lorikeet) [idx: 90]
+  예측: n01820546 (lorikeet) [idx: 90]
+  신뢰도: 0.9986
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01820546 (lorikeet) - 0.9987
+    2. n01833805 (hummingbird) - 0.0011
+    3. n01537544 (indigo_bunting) - 0.0001
+    4. n01818515 (macaw) - 0.0001
+    5. n01843065 (jacamar) - 0.0000
+
+[Image #4601]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01828970/ILSVRC2012_val_00000051.JPEG
+  정답: n01828970 (bee_eater) [idx: 92]
+  예측: n01828970 (bee_eater) [idx: 92]
+  신뢰도: 0.9051
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01828970 (bee_eater) - 0.9151
+    2. n01537544 (indigo_bunting) - 0.0398
+    3. n01824575 (coucal) - 0.0196
+    4. n01833805 (hummingbird) - 0.0191
+    5. n01580077 (jay) - 0.0064
+
+[Image #4701]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01833805/ILSVRC2012_val_00002974.JPEG
+  정답: n01833805 (hummingbird) [idx: 94]
+  예측: n01833805 (hummingbird) [idx: 94]
+  신뢰도: 0.9988
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01833805 (hummingbird) - 0.9988
+    2. n01828970 (bee_eater) - 0.0009
+    3. n01843065 (jacamar) - 0.0003
+    4. n01608432 (kite) - 0.0000
+    5. n01560419 (bulbul) - 0.0000
+
+[Image #4801]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01843383/ILSVRC2012_val_00000952.JPEG
+  정답: n01843383 (toucan) [idx: 96]
+  예측: n01843383 (toucan) [idx: 96]
+  신뢰도: 1.0000
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01843383 (toucan) - 1.0000
+    2. n01829413 (hornbill) - 0.0000
+    3. n01582220 (magpie) - 0.0000
+    4. n01818515 (macaw) - 0.0000
+    5. n01820546 (lorikeet) - 0.0000
+
+[Image #4901]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01855032/ILSVRC2012_val_00002309.JPEG
+  정답: n01855032 (red-breasted_merganser) [idx: 98]
+  예측: n02027492 (red-backed_sandpiper) [idx: 140]
+  신뢰도: 0.1752
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02027492 (red-backed_sandpiper) - 0.2753
+    2. n02037110 (oystercatcher) - 0.2642
+    3. n01855032 (red-breasted_merganser) - 0.2027
+    4. n02025239 (ruddy_turnstone) - 0.1436
+    5. n02051845 (pelican) - 0.1142
+
+[Image #5001]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01860187/ILSVRC2012_val_00000466.JPEG
+  정답: n01860187 (black_swan) [idx: 100]
+  예측: n01860187 (black_swan) [idx: 100]
+  신뢰도: 0.9998
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01860187 (black_swan) - 0.9998
+    2. n01855672 (goose) - 0.0002
+    3. n02058221 (albatross) - 0.0000
+    4. n01518878 (ostrich) - 0.0000
+    5. n02037110 (oystercatcher) - 0.0000
+
+[Image #5101]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01872401/ILSVRC2012_val_00000319.JPEG
+  정답: n01872401 (echidna) [idx: 102]
+  예측: n01872401 (echidna) [idx: 102]
+  신뢰도: 0.9914
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01872401 (echidna) - 0.9917
+    2. n02346627 (porcupine) - 0.0079
+    3. n01768244 (trilobite) - 0.0001
+    4. n02363005 (beaver) - 0.0001
+    5. n03876231 (paintbrush) - 0.0001
+
+[Image #5201]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01877812/ILSVRC2012_val_00000655.JPEG
+  정답: n01877812 (wallaby) [idx: 104]
+  예측: n01877812 (wallaby) [idx: 104]
+  신뢰도: 0.7404
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01877812 (wallaby) - 0.7548
+    2. n02119789 (kit_fox) - 0.0945
+    3. n02120505 (grey_fox) - 0.0817
+    4. n02396427 (wild_boar) - 0.0376
+    5. n02119022 (red_fox) - 0.0314
+
+[Image #5301]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01883070/ILSVRC2012_val_00001933.JPEG
+  정답: n01883070 (wombat) [idx: 106]
+  예측: n01883070 (wombat) [idx: 106]
+  신뢰도: 0.6983
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01883070 (wombat) - 0.7020
+    2. n01877812 (wallaby) - 0.2348
+    3. n02326432 (hare) - 0.0361
+    4. n02325366 (wood_rabbit) - 0.0220
+    5. n07802026 (hay) - 0.0051
+
+[Image #5401]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01914609/ILSVRC2012_val_00000017.JPEG
+  정답: n01914609 (sea_anemone) [idx: 108]
+  예측: n01914609 (sea_anemone) [idx: 108]
+  신뢰도: 0.1660
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01914609 (sea_anemone) - 0.3539
+    2. n01632777 (axolotl) - 0.2758
+    3. n01774750 (tarantula) - 0.2371
+    4. n03325584 (feather_boa) - 0.0723
+    5. n03347037 (fire_screen) - 0.0609
+
+[Image #5501]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01924916/ILSVRC2012_val_00003054.JPEG
+  정답: n01924916 (flatworm) [idx: 110]
+  예측: n01924916 (flatworm) [idx: 110]
+  신뢰도: 0.6127
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01924916 (flatworm) - 0.6167
+    2. n01950731 (sea_slug) - 0.3677
+    3. n01770393 (scorpion) - 0.0110
+    4. n02219486 (ant) - 0.0023
+    5. n01751748 (sea_snake) - 0.0022
+
+[Image #5601]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01943899/ILSVRC2012_val_00000781.JPEG
+  정답: n01943899 (conch) [idx: 112]
+  예측: n01943899 (conch) [idx: 112]
+  신뢰도: 0.9724
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01943899 (conch) - 0.9810
+    2. n01664065 (loggerhead) - 0.0149
+    3. n01665541 (leatherback_turtle) - 0.0024
+    4. n02123045 (tabby) - 0.0009
+    5. n02096294 (Australian_terrier) - 0.0008
+
+[Image #5701]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01945685/ILSVRC2012_val_00000546.JPEG
+  정답: n01945685 (slug) [idx: 114]
+  예측: n01944390 (snail) [idx: 113]
+  신뢰도: 0.6856
+  정답여부: 틀림
+  Top-5 예측:
+    1. n01944390 (snail) - 0.8092
+    2. n07753592 (banana) - 0.0631
+    3. n07720875 (bell_pepper) - 0.0531
+    4. n07749582 (lemon) - 0.0399
+    5. n02219486 (ant) - 0.0347
+
+[Image #5801]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01955084/ILSVRC2012_val_00000689.JPEG
+  정답: n01955084 (chiton) [idx: 116]
+  예측: n01955084 (chiton) [idx: 116]
+  신뢰도: 0.9878
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01955084 (chiton) - 0.9928
+    2. n01944390 (snail) - 0.0039
+    3. n01689811 (alligator_lizard) - 0.0017
+    4. n01737021 (water_snake) - 0.0011
+    5. n01751748 (sea_snake) - 0.0006
+
+[Image #5901]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01978287/ILSVRC2012_val_00000195.JPEG
+  정답: n01978287 (Dungeness_crab) [idx: 118]
+  예측: n01978287 (Dungeness_crab) [idx: 118]
+  신뢰도: 0.6454
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01978287 (Dungeness_crab) - 0.6836
+    2. n02233338 (cockroach) - 0.1491
+    3. n01978455 (rock_crab) - 0.1317
+    4. n01981276 (king_crab) - 0.0232
+    5. n02167151 (ground_beetle) - 0.0124
+
+[Image #6001]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01980166/ILSVRC2012_val_00000818.JPEG
+  정답: n01980166 (fiddler_crab) [idx: 120]
+  예측: n01984695 (spiny_lobster) [idx: 123]
+  신뢰도: 0.3304
+  정답여부: 틀림
+  Top-5 예측:
+    1. n01984695 (spiny_lobster) - 0.3884
+    2. n01985128 (crayfish) - 0.3141
+    3. n02256656 (cicada) - 0.2200
+    4. n01983481 (American_lobster) - 0.0525
+    5. n01978455 (rock_crab) - 0.0250
+
+[Image #6101]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01983481/ILSVRC2012_val_00000111.JPEG
+  정답: n01983481 (American_lobster) [idx: 122]
+  예측: n01983481 (American_lobster) [idx: 122]
+  신뢰도: 0.8931
+  정답여부: 맞음
+  Top-5 예측:
+    1. n01983481 (American_lobster) - 0.9540
+    2. n02948072 (candle) - 0.0158
+    3. n01985128 (crayfish) - 0.0133
+    4. n07697537 (hotdog) - 0.0098
+    5. n07697313 (cheeseburger) - 0.0071
+
+[Image #6201]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01985128/ILSVRC2012_val_00001381.JPEG
+  정답: n01985128 (crayfish) [idx: 124]
+  예측: n01983481 (American_lobster) [idx: 122]
+  신뢰도: 0.4767
+  정답여부: 틀림
+  Top-5 예측:
+    1. n01983481 (American_lobster) - 0.5063
+    2. n01984695 (spiny_lobster) - 0.2582
+    3. n01985128 (crayfish) - 0.1240
+    4. n04111531 (rotisserie) - 0.0951
+    5. n01978455 (rock_crab) - 0.0164
+
+[Image #6301]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n01990800/ILSVRC2012_val_00000669.JPEG
+  정답: n01990800 (isopod) [idx: 126]
+  예측: n02177972 (weevil) [idx: 307]
+  신뢰도: 0.3572
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02177972 (weevil) - 0.4501
+    2. n01944390 (snail) - 0.1773
+    3. n01945685 (slug) - 0.1435
+    4. n02172182 (dung_beetle) - 0.1361
+    5. n01990800 (isopod) - 0.0929
+
+[Image #6401]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02002724/ILSVRC2012_val_00001068.JPEG
+  정답: n02002724 (black_stork) [idx: 128]
+  예측: n02002724 (black_stork) [idx: 128]
+  신뢰도: 0.9307
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02002724 (black_stork) - 0.9308
+    2. n02002556 (white_stork) - 0.0688
+    3. n02037110 (oystercatcher) - 0.0003
+    4. n01582220 (magpie) - 0.0001
+    5. n02051845 (pelican) - 0.0000
+
+[Image #6501]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02007558/ILSVRC2012_val_00000356.JPEG
+  정답: n02007558 (flamingo) [idx: 130]
+  예측: n02007558 (flamingo) [idx: 130]
+  신뢰도: 0.3023
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02007558 (flamingo) - 0.3642
+    2. n02006656 (spoonbill) - 0.3519
+    3. n02009229 (little_blue_heron) - 0.1078
+    4. n02012849 (crane) - 0.0888
+    5. n02317335 (starfish) - 0.0873
+
+[Image #6601]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02009912/ILSVRC2012_val_00001067.JPEG
+  정답: n02009912 (American_egret) [idx: 132]
+  예측: n02009912 (American_egret) [idx: 132]
+  신뢰도: 0.8393
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02009912 (American_egret) - 0.8411
+    2. n02006656 (spoonbill) - 0.1397
+    3. n02012849 (crane) - 0.0140
+    4. n02002556 (white_stork) - 0.0038
+    5. n01819313 (sulphur-crested_cockatoo) - 0.0014
+
+[Image #6701]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02012849/ILSVRC2012_val_00000389.JPEG
+  정답: n02012849 (crane) [idx: 134]
+  예측: n02002556 (white_stork) [idx: 127]
+  신뢰도: 0.1365
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02002556 (white_stork) - 0.3161
+    2. n02009912 (American_egret) - 0.2695
+    3. n02002724 (black_stork) - 0.1718
+    4. n02012849 (crane) - 0.1268
+    5. n02423022 (gazelle) - 0.1159
+
+[Image #6801]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02017213/ILSVRC2012_val_00003399.JPEG
+  정답: n02017213 (European_gallinule) [idx: 136]
+  예측: n02017213 (European_gallinule) [idx: 136]
+  신뢰도: 1.0000
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02017213 (European_gallinule) - 1.0000
+    2. n02018207 (American_coot) - 0.0000
+    3. n01534433 (junco) - 0.0000
+    4. n01537544 (indigo_bunting) - 0.0000
+    5. n01860187 (black_swan) - 0.0000
+
+[Image #6901]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02018795/ILSVRC2012_val_00001073.JPEG
+  정답: n02018795 (bustard) [idx: 138]
+  예측: n01795545 (black_grouse) [idx: 80]
+  신뢰도: 0.7957
+  정답여부: 틀림
+  Top-5 예측:
+    1. n01795545 (black_grouse) - 0.8040
+    2. n02018795 (bustard) - 0.1791
+    3. n01807496 (partridge) - 0.0087
+    4. n01829413 (hornbill) - 0.0045
+    5. n01797886 (ruffed_grouse) - 0.0038
+
+[Image #7001]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02027492/ILSVRC2012_val_00000177.JPEG
+  정답: n02027492 (red-backed_sandpiper) [idx: 140]
+  예측: n02027492 (red-backed_sandpiper) [idx: 140]
+  신뢰도: 0.9964
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02027492 (red-backed_sandpiper) - 0.9965
+    2. n02033041 (dowitcher) - 0.0022
+    3. n02011460 (bittern) - 0.0008
+    4. n02025239 (ruddy_turnstone) - 0.0005
+    5. n02655020 (puffer) - 0.0000
+
+[Image #7101]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02033041/ILSVRC2012_val_00000098.JPEG
+  정답: n02033041 (dowitcher) [idx: 142]
+  예측: n02033041 (dowitcher) [idx: 142]
+  신뢰도: 0.9500
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02033041 (dowitcher) - 0.9505
+    2. n02027492 (red-backed_sandpiper) - 0.0433
+    3. n02028035 (redshank) - 0.0046
+    4. n02013706 (limpkin) - 0.0014
+    5. n01601694 (water_ouzel) - 0.0002
+
+[Image #7201]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02051845/ILSVRC2012_val_00003147.JPEG
+  정답: n02051845 (pelican) [idx: 144]
+  예측: n01560419 (bulbul) [idx: 16]
+  신뢰도: 0.2936
+  정답여부: 틀림
+  Top-5 예측:
+    1. n01560419 (bulbul) - 0.4430
+    2. n02051845 (pelican) - 0.3949
+    3. n02012849 (crane) - 0.0623
+    4. n01824575 (coucal) - 0.0502
+    5. n01580077 (jay) - 0.0495
+
+[Image #7301]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02058221/ILSVRC2012_val_00000207.JPEG
+  정답: n02058221 (albatross) [idx: 146]
+  예측: n02396427 (wild_boar) [idx: 342]
+  신뢰도: 0.2089
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02396427 (wild_boar) - 0.3289
+    2. n02397096 (warthog) - 0.2550
+    3. n01877812 (wallaby) - 0.1754
+    4. n02361337 (marmot) - 0.1423
+    5. n02325366 (wood_rabbit) - 0.0984
+
+[Image #7401]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02071294/ILSVRC2012_val_00000545.JPEG
+  정답: n02071294 (killer_whale) [idx: 148]
+  예측: n02071294 (killer_whale) [idx: 148]
+  신뢰도: 0.8605
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02071294 (killer_whale) - 0.8818
+    2. n02058221 (albatross) - 0.1010
+    3. n03873416 (paddle) - 0.0081
+    4. n03710637 (maillot) - 0.0050
+    5. n03710721 (maillot) - 0.0041
+
+[Image #7501]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02077923/ILSVRC2012_val_00000033.JPEG
+  정답: n02077923 (sea_lion) [idx: 150]
+  예측: n02444819 (otter) [idx: 360]
+  신뢰도: 0.9004
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02444819 (otter) - 0.9554
+    2. n02128757 (snow_leopard) - 0.0182
+    3. n02085936 (Maltese_dog) - 0.0099
+    4. n02363005 (beaver) - 0.0089
+    5. n02442845 (mink) - 0.0076
+
+[Image #7601]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02085782/ILSVRC2012_val_00000462.JPEG
+  정답: n02085782 (Japanese_spaniel) [idx: 152]
+  예측: n02086910 (papillon) [idx: 157]
+  신뢰도: 0.7419
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02086910 (papillon) - 0.7464
+    2. n02085782 (Japanese_spaniel) - 0.2368
+    3. n02086240 (Shih-Tzu) - 0.0094
+    4. n02123394 (Persian_cat) - 0.0042
+    5. n02106166 (Border_collie) - 0.0032
+
+[Image #7701]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02086079/ILSVRC2012_val_00001069.JPEG
+  정답: n02086079 (Pekinese) [idx: 154]
+  예측: n02112706 (Brabancon_griffon) [idx: 262]
+  신뢰도: 0.7015
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02112706 (Brabancon_griffon) - 0.7202
+    2. n02086079 (Pekinese) - 0.2173
+    3. n02094433 (Yorkshire_terrier) - 0.0308
+    4. n02112018 (Pomeranian) - 0.0251
+    5. n02085620 (Chihuahua) - 0.0066
+
+[Image #7801]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02086646/ILSVRC2012_val_00000613.JPEG
+  정답: n02086646 (Blenheim_spaniel) [idx: 156]
+  예측: n02086646 (Blenheim_spaniel) [idx: 156]
+  신뢰도: 0.9823
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02086646 (Blenheim_spaniel) - 0.9828
+    2. n02085782 (Japanese_spaniel) - 0.0087
+    3. n02086910 (papillon) - 0.0079
+    4. n02101388 (Brittany_spaniel) - 0.0003
+    5. n02102177 (Welsh_springer_spaniel) - 0.0002
+
+[Image #7901]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02087046/ILSVRC2012_val_00000170.JPEG
+  정답: n02087046 (toy_terrier) [idx: 158]
+  예측: n02091032 (Italian_greyhound) [idx: 171]
+  신뢰도: 0.4548
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02091032 (Italian_greyhound) - 0.4790
+    2. n02087046 (toy_terrier) - 0.3277
+    3. n02085620 (Chihuahua) - 0.1329
+    4. n02107312 (miniature_pinscher) - 0.0324
+    5. n02110806 (basenji) - 0.0278
+
+[Image #8001]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02088094/ILSVRC2012_val_00000082.JPEG
+  정답: n02088094 (Afghan_hound) [idx: 160]
+  예측: n02088094 (Afghan_hound) [idx: 160]
+  신뢰도: 0.9250
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02088094 (Afghan_hound) - 0.9470
+    2. n02092002 (Scottish_deerhound) - 0.0252
+    3. n02105251 (briard) - 0.0143
+    4. n02111277 (Newfoundland) - 0.0070
+    5. n02102480 (Sussex_spaniel) - 0.0065
+
+[Image #8101]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02088364/ILSVRC2012_val_00000599.JPEG
+  정답: n02088364 (beagle) [idx: 162]
+  예측: n02088364 (beagle) [idx: 162]
+  신뢰도: 0.6599
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02088364 (beagle) - 0.7630
+    2. n02089867 (Walker_hound) - 0.0713
+    3. n02093428 (American_Staffordshire_terrier) - 0.0644
+    4. n02107574 (Greater_Swiss_Mountain_dog) - 0.0546
+    5. n02113023 (Pembroke) - 0.0468
+
+[Image #8201]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02088632/ILSVRC2012_val_00001097.JPEG
+  정답: n02088632 (bluetick) [idx: 164]
+  예측: n02088632 (bluetick) [idx: 164]
+  신뢰도: 0.5477
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02088632 (bluetick) - 0.6542
+    2. n02085620 (Chihuahua) - 0.1562
+    3. n02113186 (Cardigan) - 0.0796
+    4. n02091032 (Italian_greyhound) - 0.0592
+    5. n02088364 (beagle) - 0.0509
+
+[Image #8301]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02089867/ILSVRC2012_val_00000511.JPEG
+  정답: n02089867 (Walker_hound) [idx: 166]
+  예측: n02089867 (Walker_hound) [idx: 166]
+  신뢰도: 0.4799
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02089867 (Walker_hound) - 0.5122
+    2. n02088364 (beagle) - 0.4195
+    3. n02091244 (Ibizan_hound) - 0.0306
+    4. n02088238 (basset) - 0.0199
+    5. n02089973 (English_foxhound) - 0.0179
+
+[Image #8401]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02090379/ILSVRC2012_val_00001267.JPEG
+  정답: n02090379 (redbone) [idx: 168]
+  예측: n02100583 (vizsla) [idx: 211]
+  신뢰도: 0.2556
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02100583 (vizsla) - 0.4392
+    2. n02087394 (Rhodesian_ridgeback) - 0.1731
+    3. n02107312 (miniature_pinscher) - 0.1641
+    4. n02395406 (hog) - 0.1235
+    5. n02090379 (redbone) - 0.1001
+
+[Image #8501]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02090721/ILSVRC2012_val_00001765.JPEG
+  정답: n02090721 (Irish_wolfhound) [idx: 170]
+  예측: n02091134 (whippet) [idx: 172]
+  신뢰도: 0.4323
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02091134 (whippet) - 0.4878
+    2. n02090721 (Irish_wolfhound) - 0.1829
+    3. n02437312 (Arabian_camel) - 0.1719
+    4. n02099849 (Chesapeake_Bay_retriever) - 0.0945
+    5. n02091831 (Saluki) - 0.0630
+
+[Image #8601]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02091134/ILSVRC2012_val_00001846.JPEG
+  정답: n02091134 (whippet) [idx: 172]
+  예측: n02093428 (American_Staffordshire_terrier) [idx: 180]
+  신뢰도: 0.4053
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02093428 (American_Staffordshire_terrier) - 0.4897
+    2. n02109047 (Great_Dane) - 0.2396
+    3. n02091032 (Italian_greyhound) - 0.1455
+    4. n02092339 (Weimaraner) - 0.0830
+    5. n02091134 (whippet) - 0.0421
+
+[Image #8701]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02091467/ILSVRC2012_val_00002328.JPEG
+  정답: n02091467 (Norwegian_elkhound) [idx: 174]
+  예측: n02091467 (Norwegian_elkhound) [idx: 174]
+  신뢰도: 0.7147
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02091467 (Norwegian_elkhound) - 0.7390
+    2. n02109961 (Eskimo_dog) - 0.1579
+    3. n02110185 (Siberian_husky) - 0.0436
+    4. n02090622 (borzoi) - 0.0378
+    5. n02110958 (pug) - 0.0216
+
+[Image #8801]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02091831/ILSVRC2012_val_00000263.JPEG
+  정답: n02091831 (Saluki) [idx: 176]
+  예측: n02091831 (Saluki) [idx: 176]
+  신뢰도: 0.9351
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02091831 (Saluki) - 0.9491
+    2. n02107574 (Greater_Swiss_Mountain_dog) - 0.0238
+    3. n02107908 (Appenzeller) - 0.0128
+    4. n02108000 (EntleBucher) - 0.0107
+    5. n02088632 (bluetick) - 0.0036
+
+[Image #8901]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02092339/ILSVRC2012_val_00001385.JPEG
+  정답: n02092339 (Weimaraner) [idx: 178]
+  예측: n02092339 (Weimaraner) [idx: 178]
+  신뢰도: 0.9993
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02092339 (Weimaraner) - 0.9994
+    2. n02100583 (vizsla) - 0.0003
+    3. n02099712 (Labrador_retriever) - 0.0002
+    4. n02099849 (Chesapeake_Bay_retriever) - 0.0001
+    5. n02107142 (Doberman) - 0.0000
+
+[Image #9001]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02093428/ILSVRC2012_val_00000191.JPEG
+  정답: n02093428 (American_Staffordshire_terrier) [idx: 180]
+  예측: n02108422 (bull_mastiff) [idx: 243]
+  신뢰도: 0.7474
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02108422 (bull_mastiff) - 0.7926
+    2. n02093428 (American_Staffordshire_terrier) - 0.1176
+    3. n02088466 (bloodhound) - 0.0451
+    4. n02087394 (Rhodesian_ridgeback) - 0.0259
+    5. n02093256 (Staffordshire_bullterrier) - 0.0190
+
+[Image #9101]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02093754/ILSVRC2012_val_00000832.JPEG
+  정답: n02093754 (Border_terrier) [idx: 182]
+  예측: n02093754 (Border_terrier) [idx: 182]
+  신뢰도: 0.1789
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02093754 (Border_terrier) - 0.3650
+    2. n01882714 (koala) - 0.3151
+    3. n02091467 (Norwegian_elkhound) - 0.1220
+    4. n02123045 (tabby) - 0.1197
+    5. n02096051 (Airedale) - 0.0781
+
+[Image #9201]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02093991/ILSVRC2012_val_00000588.JPEG
+  정답: n02093991 (Irish_terrier) [idx: 184]
+  예측: n02113624 (toy_poodle) [idx: 265]
+  신뢰도: 0.1920
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02113624 (toy_poodle) - 0.2689
+    2. n02105641 (Old_English_sheepdog) - 0.2648
+    3. n02095314 (wire-haired_fox_terrier) - 0.1743
+    4. n02113712 (miniature_poodle) - 0.1718
+    5. n02095570 (Lakeland_terrier) - 0.1202
+
+[Image #9301]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02094258/ILSVRC2012_val_00000612.JPEG
+  정답: n02094258 (Norwich_terrier) [idx: 186]
+  예측: n02098286 (West_Highland_white_terrier) [idx: 203]
+  신뢰도: 0.5786
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02098286 (West_Highland_white_terrier) - 0.5920
+    2. n02096177 (cairn) - 0.3078
+    3. n02094258 (Norwich_terrier) - 0.0489
+    4. n02097298 (Scotch_terrier) - 0.0359
+    5. n02096294 (Australian_terrier) - 0.0153
+
+[Image #9401]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02095314/ILSVRC2012_val_00001001.JPEG
+  정답: n02095314 (wire-haired_fox_terrier) [idx: 188]
+  예측: n02098105 (soft-coated_wheaten_terrier) [idx: 202]
+  신뢰도: 0.3115
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02098105 (soft-coated_wheaten_terrier) - 0.4685
+    2. n02095314 (wire-haired_fox_terrier) - 0.2236
+    3. n02101556 (clumber) - 0.1111
+    4. n02095570 (Lakeland_terrier) - 0.1092
+    5. n02096051 (Airedale) - 0.0875
+
+[Image #9501]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02095889/ILSVRC2012_val_00000474.JPEG
+  정답: n02095889 (Sealyham_terrier) [idx: 190]
+  예측: n02095889 (Sealyham_terrier) [idx: 190]
+  신뢰도: 0.8568
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02095889 (Sealyham_terrier) - 0.8697
+    2. n02101556 (clumber) - 0.0796
+    3. n02100735 (English_setter) - 0.0280
+    4. n02098286 (West_Highland_white_terrier) - 0.0144
+    5. n02104029 (kuvasz) - 0.0083
+
+[Image #9601]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02096177/ILSVRC2012_val_00000379.JPEG
+  정답: n02096177 (cairn) [idx: 192]
+  예측: n02097298 (Scotch_terrier) [idx: 199]
+  신뢰도: 0.4885
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02097298 (Scotch_terrier) - 0.5551
+    2. n02096177 (cairn) - 0.2563
+    3. n02105251 (briard) - 0.1073
+    4. n02097130 (giant_schnauzer) - 0.0407
+    5. n02106382 (Bouvier_des_Flandres) - 0.0406
+
+[Image #9701]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02096437/ILSVRC2012_val_00000279.JPEG
+  정답: n02096437 (Dandie_Dinmont) [idx: 194]
+  예측: n02412080 (ram) [idx: 348]
+  신뢰도: 0.5329
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02412080 (ram) - 0.6730
+    2. n02437312 (Arabian_camel) - 0.1545
+    3. n02415577 (bighorn) - 0.0751
+    4. n02457408 (three-toed_sloth) - 0.0651
+    5. n02132136 (brown_bear) - 0.0323
+
+[Image #9801]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02097047/ILSVRC2012_val_00000176.JPEG
+  정답: n02097047 (miniature_schnauzer) [idx: 196]
+  예측: n02106382 (Bouvier_des_Flandres) [idx: 233]
+  신뢰도: 0.3980
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02106382 (Bouvier_des_Flandres) - 0.4255
+    2. n02097298 (Scotch_terrier) - 0.3923
+    3. n02097130 (giant_schnauzer) - 0.0911
+    4. n02093859 (Kerry_blue_terrier) - 0.0619
+    5. n02105251 (briard) - 0.0292
+
+[Image #9901]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02097209/ILSVRC2012_val_00000044.JPEG
+  정답: n02097209 (standard_schnauzer) [idx: 198]
+  예측: n02097209 (standard_schnauzer) [idx: 198]
+  신뢰도: 0.3904
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02097209 (standard_schnauzer) - 0.4151
+    2. n02097047 (miniature_schnauzer) - 0.3949
+    3. n02096437 (Dandie_Dinmont) - 0.1204
+    4. n02096294 (Australian_terrier) - 0.0391
+    5. n02096177 (cairn) - 0.0305
+
+[Image #10001]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02097474/ILSVRC2012_val_00000802.JPEG
+  정답: n02097474 (Tibetan_terrier) [idx: 200]
+  예측: n02097474 (Tibetan_terrier) [idx: 200]
+  신뢰도: 0.6279
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02097474 (Tibetan_terrier) - 0.6615
+    2. n02111277 (Newfoundland) - 0.1769
+    3. n02105251 (briard) - 0.0674
+    4. n02108551 (Tibetan_mastiff) - 0.0496
+    5. n02107683 (Bernese_mountain_dog) - 0.0446
+
+[Image #10101]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02098105/ILSVRC2012_val_00000748.JPEG
+  정답: n02098105 (soft-coated_wheaten_terrier) [idx: 202]
+  예측: n02098105 (soft-coated_wheaten_terrier) [idx: 202]
+  신뢰도: 0.6837
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02098105 (soft-coated_wheaten_terrier) - 0.7189
+    2. n02093754 (Border_terrier) - 0.1136
+    3. n02111129 (Leonberg) - 0.0909
+    4. n02112706 (Brabancon_griffon) - 0.0554
+    5. n02105251 (briard) - 0.0212
+
+[Image #10201]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02098413/ILSVRC2012_val_00001481.JPEG
+  정답: n02098413 (Lhasa) [idx: 204]
+  예측: n02098413 (Lhasa) [idx: 204]
+  신뢰도: 0.6598
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02098413 (Lhasa) - 0.6836
+    2. n02086240 (Shih-Tzu) - 0.2388
+    3. n02086079 (Pekinese) - 0.0444
+    4. n02097474 (Tibetan_terrier) - 0.0203
+    5. n02093754 (Border_terrier) - 0.0129
+
+[Image #10301]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02099429/ILSVRC2012_val_00001434.JPEG
+  정답: n02099429 (curly-coated_retriever) [idx: 206]
+  예측: n02102973 (Irish_water_spaniel) [idx: 221]
+  신뢰도: 0.7922
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02102973 (Irish_water_spaniel) - 0.7992
+    2. n02099429 (curly-coated_retriever) - 0.1750
+    3. n02113799 (standard_poodle) - 0.0157
+    4. n02113712 (miniature_poodle) - 0.0053
+    5. n02099849 (Chesapeake_Bay_retriever) - 0.0049
+
+[Image #10401]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02099712/ILSVRC2012_val_00000375.JPEG
+  정답: n02099712 (Labrador_retriever) [idx: 208]
+  예측: n02099712 (Labrador_retriever) [idx: 208]
+  신뢰도: 0.8030
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02099712 (Labrador_retriever) - 0.8412
+    2. n02109047 (Great_Dane) - 0.0585
+    3. n02099267 (flat-coated_retriever) - 0.0575
+    4. n02099429 (curly-coated_retriever) - 0.0293
+    5. n02089078 (black-and-tan_coonhound) - 0.0135
+
+[Image #10501]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02100236/ILSVRC2012_val_00001070.JPEG
+  정답: n02100236 (German_short-haired_pointer) [idx: 210]
+  예측: n02100236 (German_short-haired_pointer) [idx: 210]
+  신뢰도: 0.1751
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02100236 (German_short-haired_pointer) - 0.2926
+    2. n02092339 (Weimaraner) - 0.2374
+    3. n02091032 (Italian_greyhound) - 0.1909
+    4. n02107142 (Doberman) - 0.1443
+    5. n02105412 (kelpie) - 0.1348
+
+[Image #10601]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02100735/ILSVRC2012_val_00000172.JPEG
+  정답: n02100735 (English_setter) [idx: 212]
+  예측: n02100735 (English_setter) [idx: 212]
+  신뢰도: 0.8628
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02100735 (English_setter) - 0.8921
+    2. n02097209 (standard_schnauzer) - 0.0527
+    3. n02097047 (miniature_schnauzer) - 0.0297
+    4. n02092002 (Scottish_deerhound) - 0.0179
+    5. n02090721 (Irish_wolfhound) - 0.0076
+
+[Image #10701]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02101006/ILSVRC2012_val_00000708.JPEG
+  정답: n02101006 (Gordon_setter) [idx: 214]
+  예측: n02101006 (Gordon_setter) [idx: 214]
+  신뢰도: 0.2593
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02101006 (Gordon_setter) - 0.3962
+    2. n02102318 (cocker_spaniel) - 0.2626
+    3. n02113624 (toy_poodle) - 0.1486
+    4. n02102973 (Irish_water_spaniel) - 0.1271
+    5. n02096051 (Airedale) - 0.0655
+
+[Image #10801]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02101556/ILSVRC2012_val_00000643.JPEG
+  정답: n02101556 (clumber) [idx: 216]
+  예측: n02101556 (clumber) [idx: 216]
+  신뢰도: 0.5756
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02101556 (clumber) - 0.6185
+    2. n02101388 (Brittany_spaniel) - 0.2678
+    3. n02100735 (English_setter) - 0.0469
+    4. n02106166 (Border_collie) - 0.0420
+    5. n02090622 (borzoi) - 0.0248
+
+[Image #10901]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02102177/ILSVRC2012_val_00002298.JPEG
+  정답: n02102177 (Welsh_springer_spaniel) [idx: 218]
+  예측: n02102177 (Welsh_springer_spaniel) [idx: 218]
+  신뢰도: 0.7596
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02102177 (Welsh_springer_spaniel) - 0.7629
+    2. n02101388 (Brittany_spaniel) - 0.2067
+    3. n02088364 (beagle) - 0.0238
+    4. n02088238 (basset) - 0.0048
+    5. n02089867 (Walker_hound) - 0.0018
+
+[Image #11001]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02102480/ILSVRC2012_val_00000539.JPEG
+  정답: n02102480 (Sussex_spaniel) [idx: 220]
+  예측: n02102480 (Sussex_spaniel) [idx: 220]
+  신뢰도: 0.8619
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02102480 (Sussex_spaniel) - 0.8859
+    2. n02102318 (cocker_spaniel) - 0.0541
+    3. n02088094 (Afghan_hound) - 0.0261
+    4. n02100877 (Irish_setter) - 0.0200
+    5. n02111277 (Newfoundland) - 0.0140
+
+[Image #11101]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02104029/ILSVRC2012_val_00000507.JPEG
+  정답: n02104029 (kuvasz) [idx: 222]
+  예측: n02104029 (kuvasz) [idx: 222]
+  신뢰도: 0.3000
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02104029 (kuvasz) - 0.4051
+    2. n02111500 (Great_Pyrenees) - 0.2066
+    3. n02134084 (ice_bear) - 0.1660
+    4. n02111889 (Samoyed) - 0.1178
+    5. n02098286 (West_Highland_white_terrier) - 0.1044
+
+[Image #11201]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02105056/ILSVRC2012_val_00001109.JPEG
+  정답: n02105056 (groenendael) [idx: 224]
+  예측: n02097209 (standard_schnauzer) [idx: 198]
+  신뢰도: 0.4747
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02097209 (standard_schnauzer) - 0.5280
+    2. n02097130 (giant_schnauzer) - 0.2035
+    3. n02097047 (miniature_schnauzer) - 0.1795
+    4. n02096051 (Airedale) - 0.0480
+    5. n02106382 (Bouvier_des_Flandres) - 0.0409
+
+[Image #11301]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02105251/ILSVRC2012_val_00004938.JPEG
+  정답: n02105251 (briard) [idx: 226]
+  예측: n02105251 (briard) [idx: 226]
+  신뢰도: 0.8142
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02105251 (briard) - 0.8796
+    2. n02111129 (Leonberg) - 0.0501
+    3. n02096294 (Australian_terrier) - 0.0241
+    4. n02088094 (Afghan_hound) - 0.0239
+    5. n02094114 (Norfolk_terrier) - 0.0223
+
+[Image #11401]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02105505/ILSVRC2012_val_00000383.JPEG
+  정답: n02105505 (komondor) [idx: 228]
+  예측: n02105505 (komondor) [idx: 228]
+  신뢰도: 0.5247
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02105505 (komondor) - 0.6223
+    2. n02906734 (broom) - 0.2818
+    3. n03404251 (fur_coat) - 0.0394
+    4. n04367480 (swab) - 0.0359
+    5. n02088094 (Afghan_hound) - 0.0207
+
+[Image #11501]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02105855/ILSVRC2012_val_00000003.JPEG
+  정답: n02105855 (Shetland_sheepdog) [idx: 230]
+  예측: n02105855 (Shetland_sheepdog) [idx: 230]
+  신뢰도: 0.6609
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02105855 (Shetland_sheepdog) - 0.6614
+    2. n02106030 (collie) - 0.3319
+    3. n02086910 (papillon) - 0.0035
+    4. n02113023 (Pembroke) - 0.0018
+    5. n02106166 (Border_collie) - 0.0014
+
+[Image #11601]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02106166/ILSVRC2012_val_00000672.JPEG
+  정답: n02106166 (Border_collie) [idx: 232]
+  예측: n02106166 (Border_collie) [idx: 232]
+  신뢰도: 0.9163
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02106166 (Border_collie) - 0.9291
+    2. n02097130 (giant_schnauzer) - 0.0220
+    3. n02099267 (flat-coated_retriever) - 0.0196
+    4. n02111277 (Newfoundland) - 0.0149
+    5. n02106030 (collie) - 0.0144
+
+[Image #11701]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02106550/ILSVRC2012_val_00003623.JPEG
+  정답: n02106550 (Rottweiler) [idx: 234]
+  예측: n02107142 (Doberman) [idx: 236]
+  신뢰도: 0.4326
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02107142 (Doberman) - 0.4882
+    2. n02106550 (Rottweiler) - 0.4082
+    3. n02093256 (Staffordshire_bullterrier) - 0.0523
+    4. n02089078 (black-and-tan_coonhound) - 0.0293
+    5. n02099712 (Labrador_retriever) - 0.0220
+
+[Image #11801]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02107142/ILSVRC2012_val_00000134.JPEG
+  정답: n02107142 (Doberman) [idx: 236]
+  예측: n02107142 (Doberman) [idx: 236]
+  신뢰도: 0.2861
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02107142 (Doberman) - 0.4745
+    2. n02088466 (bloodhound) - 0.1825
+    3. n02108000 (EntleBucher) - 0.1264
+    4. n02107312 (miniature_pinscher) - 0.1102
+    5. n02106550 (Rottweiler) - 0.1064
+
+[Image #11901]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02107574/ILSVRC2012_val_00000531.JPEG
+  정답: n02107574 (Greater_Swiss_Mountain_dog) [idx: 238]
+  예측: n02107574 (Greater_Swiss_Mountain_dog) [idx: 238]
+  신뢰도: 0.6453
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02107574 (Greater_Swiss_Mountain_dog) - 0.6468
+    2. n02107908 (Appenzeller) - 0.1940
+    3. n02108000 (EntleBucher) - 0.1529
+    4. n02089867 (Walker_hound) - 0.0047
+    5. n02107683 (Bernese_mountain_dog) - 0.0017
+
+[Image #12001]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02107908/ILSVRC2012_val_00000594.JPEG
+  정답: n02107908 (Appenzeller) [idx: 240]
+  예측: n02107574 (Greater_Swiss_Mountain_dog) [idx: 238]
+  신뢰도: 0.6528
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02107574 (Greater_Swiss_Mountain_dog) - 0.6716
+    2. n02108000 (EntleBucher) - 0.2156
+    3. n02107908 (Appenzeller) - 0.0699
+    4. n02109525 (Saint_Bernard) - 0.0279
+    5. n02088238 (basset) - 0.0150
+
+[Image #12101]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02108089/ILSVRC2012_val_00000635.JPEG
+  정답: n02108089 (boxer) [idx: 242]
+  예측: n02108089 (boxer) [idx: 242]
+  신뢰도: 0.5280
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02108089 (boxer) - 0.6334
+    2. n02091134 (whippet) - 0.1062
+    3. n02093428 (American_Staffordshire_terrier) - 0.0924
+    4. n02093256 (Staffordshire_bullterrier) - 0.0924
+    5. n02109047 (Great_Dane) - 0.0757
+
+[Image #12201]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02108551/ILSVRC2012_val_00004506.JPEG
+  정답: n02108551 (Tibetan_mastiff) [idx: 244]
+  예측: n02108551 (Tibetan_mastiff) [idx: 244]
+  신뢰도: 0.9977
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02108551 (Tibetan_mastiff) - 0.9977
+    2. n02134418 (sloth_bear) - 0.0022
+    3. n02111277 (Newfoundland) - 0.0000
+    4. n02133161 (American_black_bear) - 0.0000
+    5. n02107683 (Bernese_mountain_dog) - 0.0000
+
+[Image #12301]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02109047/ILSVRC2012_val_00001408.JPEG
+  정답: n02109047 (Great_Dane) [idx: 246]
+  예측: n02110341 (dalmatian) [idx: 251]
+  신뢰도: 0.4893
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02110341 (dalmatian) - 0.5511
+    2. n02108915 (French_bulldog) - 0.2259
+    3. n02093428 (American_Staffordshire_terrier) - 0.1519
+    4. n02091134 (whippet) - 0.0367
+    5. n02108089 (boxer) - 0.0344
+
+[Image #12401]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02109961/ILSVRC2012_val_00000178.JPEG
+  정답: n02109961 (Eskimo_dog) [idx: 248]
+  예측: n02110185 (Siberian_husky) [idx: 250]
+  신뢰도: 0.3872
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02110185 (Siberian_husky) - 0.3882
+    2. n02109961 (Eskimo_dog) - 0.3413
+    3. n02110063 (malamute) - 0.1769
+    4. n02091467 (Norwegian_elkhound) - 0.0928
+    5. n02106030 (collie) - 0.0008
+
+[Image #12501]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02110185/ILSVRC2012_val_00000269.JPEG
+  정답: n02110185 (Siberian_husky) [idx: 250]
+  예측: n02395406 (hog) [idx: 341]
+  신뢰도: 0.2660
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02395406 (hog) - 0.5504
+    2. n02110063 (malamute) - 0.1163
+    3. n02109961 (Eskimo_dog) - 0.1147
+    4. n02114548 (white_wolf) - 0.1114
+    5. n02111500 (Great_Pyrenees) - 0.1071
+
+[Image #12601]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02110627/ILSVRC2012_val_00002267.JPEG
+  정답: n02110627 (affenpinscher) [idx: 252]
+  예측: n02110627 (affenpinscher) [idx: 252]
+  신뢰도: 0.7470
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02110627 (affenpinscher) - 0.8097
+    2. n02096177 (cairn) - 0.0721
+    3. n02113624 (toy_poodle) - 0.0484
+    4. n02364673 (guinea_pig) - 0.0366
+    5. n02112706 (Brabancon_griffon) - 0.0332
+
+[Image #12701]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02110958/ILSVRC2012_val_00000220.JPEG
+  정답: n02110958 (pug) [idx: 254]
+  예측: n02110958 (pug) [idx: 254]
+  신뢰도: 0.7218
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02110958 (pug) - 0.7720
+    2. n02108915 (French_bulldog) - 0.1514
+    3. n02093256 (Staffordshire_bullterrier) - 0.0354
+    4. n02097130 (giant_schnauzer) - 0.0213
+    5. n02097209 (standard_schnauzer) - 0.0200
+
+[Image #12801]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02111277/ILSVRC2012_val_00000045.JPEG
+  정답: n02111277 (Newfoundland) [idx: 256]
+  예측: n02111277 (Newfoundland) [idx: 256]
+  신뢰도: 0.5488
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02111277 (Newfoundland) - 0.6692
+    2. n02092002 (Scottish_deerhound) - 0.1166
+    3. n02106382 (Bouvier_des_Flandres) - 0.1146
+    4. n02097130 (giant_schnauzer) - 0.0589
+    5. n02097298 (Scotch_terrier) - 0.0407
+
+[Image #12901]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02111889/ILSVRC2012_val_00000590.JPEG
+  정답: n02111889 (Samoyed) [idx: 258]
+  예측: n02111889 (Samoyed) [idx: 258]
+  신뢰도: 0.7876
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02111889 (Samoyed) - 0.8707
+    2. n02120079 (Arctic_fox) - 0.0503
+    3. n02111500 (Great_Pyrenees) - 0.0394
+    4. n02112018 (Pomeranian) - 0.0241
+    5. n02109961 (Eskimo_dog) - 0.0155
+
+[Image #13001]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02112137/ILSVRC2012_val_00000355.JPEG
+  정답: n02112137 (chow) [idx: 260]
+  예측: n02112137 (chow) [idx: 260]
+  신뢰도: 0.5029
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02112137 (chow) - 0.5041
+    2. n02112018 (Pomeranian) - 0.4871
+    3. n02086079 (Pekinese) - 0.0032
+    4. n02105855 (Shetland_sheepdog) - 0.0032
+    5. n02108551 (Tibetan_mastiff) - 0.0024
+
+[Image #13101]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02112706/ILSVRC2012_val_00001568.JPEG
+  정답: n02112706 (Brabancon_griffon) [idx: 262]
+  예측: n02112706 (Brabancon_griffon) [idx: 262]
+  신뢰도: 0.9975
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02112706 (Brabancon_griffon) - 0.9975
+    2. n02493509 (titi) - 0.0018
+    3. n02086079 (Pekinese) - 0.0006
+    4. n02492660 (howler_monkey) - 0.0000
+    5. n02493793 (spider_monkey) - 0.0000
+
+[Image #13201]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02113186/ILSVRC2012_val_00000997.JPEG
+  정답: n02113186 (Cardigan) [idx: 264]
+  예측: n02113186 (Cardigan) [idx: 264]
+  신뢰도: 0.7464
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02113186 (Cardigan) - 0.7914
+    2. n02106166 (Border_collie) - 0.1272
+    3. n02109961 (Eskimo_dog) - 0.0349
+    4. n02110185 (Siberian_husky) - 0.0261
+    5. n02102040 (English_springer) - 0.0204
+
+[Image #13301]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02113712/ILSVRC2012_val_00000867.JPEG
+  정답: n02113712 (miniature_poodle) [idx: 266]
+  예측: n02096437 (Dandie_Dinmont) [idx: 194]
+  신뢰도: 0.2390
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02096437 (Dandie_Dinmont) - 0.2802
+    2. n02113712 (miniature_poodle) - 0.2561
+    3. n02094258 (Norwich_terrier) - 0.2299
+    4. n02113624 (toy_poodle) - 0.1178
+    5. n02094114 (Norfolk_terrier) - 0.1161
+
+[Image #13401]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02113978/ILSVRC2012_val_00000719.JPEG
+  정답: n02113978 (Mexican_hairless) [idx: 268]
+  예측: n02113978 (Mexican_hairless) [idx: 268]
+  신뢰도: 0.9385
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02113978 (Mexican_hairless) - 0.9531
+    2. n02087046 (toy_terrier) - 0.0200
+    3. n02110806 (basenji) - 0.0115
+    4. n02085620 (Chihuahua) - 0.0096
+    5. n02123597 (Siamese_cat) - 0.0058
+
+[Image #13501]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02114548/ILSVRC2012_val_00000027.JPEG
+  정답: n02114548 (white_wolf) [idx: 270]
+  예측: n02114548 (white_wolf) [idx: 270]
+  신뢰도: 0.9688
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02114548 (white_wolf) - 0.9721
+    2. n02120079 (Arctic_fox) - 0.0129
+    3. n02114367 (timber_wolf) - 0.0061
+    4. n02134084 (ice_bear) - 0.0060
+    5. n02111500 (Great_Pyrenees) - 0.0029
+
+[Image #13601]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02114855/ILSVRC2012_val_00000156.JPEG
+  정답: n02114855 (coyote) [idx: 272]
+  예측: n02115913 (dhole) [idx: 274]
+  신뢰도: 0.8679
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02115913 (dhole) - 0.8841
+    2. n02119022 (red_fox) - 0.0749
+    3. n02114712 (red_wolf) - 0.0176
+    4. n02119789 (kit_fox) - 0.0140
+    5. n02105162 (malinois) - 0.0095
+
+[Image #13701]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02115913/ILSVRC2012_val_00001148.JPEG
+  정답: n02115913 (dhole) [idx: 274]
+  예측: n02115913 (dhole) [idx: 274]
+  신뢰도: 0.9904
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02115913 (dhole) - 0.9910
+    2. n02114712 (red_wolf) - 0.0047
+    3. n02119022 (red_fox) - 0.0028
+    4. n02115641 (dingo) - 0.0013
+    5. n02119789 (kit_fox) - 0.0002
+
+[Image #13801]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02117135/ILSVRC2012_val_00000133.JPEG
+  정답: n02117135 (hyena) [idx: 276]
+  예측: n02117135 (hyena) [idx: 276]
+  신뢰도: 0.9952
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02117135 (hyena) - 0.9958
+    2. n02116738 (African_hunting_dog) - 0.0025
+    3. n02130308 (cheetah) - 0.0009
+    4. n02132136 (brown_bear) - 0.0007
+    5. n02119022 (red_fox) - 0.0002
+
+[Image #13901]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02119789/ILSVRC2012_val_00000756.JPEG
+  정답: n02119789 (kit_fox) [idx: 278]
+  예측: n02119789 (kit_fox) [idx: 278]
+  신뢰도: 0.8634
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02119789 (kit_fox) - 0.8756
+    2. n02119022 (red_fox) - 0.0780
+    3. n01877812 (wallaby) - 0.0302
+    4. n02114712 (red_wolf) - 0.0098
+    5. n02120505 (grey_fox) - 0.0064
+
+[Image #14001]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02120505/ILSVRC2012_val_00000323.JPEG
+  정답: n02120505 (grey_fox) [idx: 280]
+  예측: n02120505 (grey_fox) [idx: 280]
+  신뢰도: 0.8068
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02120505 (grey_fox) - 0.8410
+    2. n02356798 (fox_squirrel) - 0.1255
+    3. n02137549 (mongoose) - 0.0171
+    4. n02114855 (coyote) - 0.0115
+    5. n02138441 (meerkat) - 0.0049
+
+[Image #14101]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02123159/ILSVRC2012_val_00000796.JPEG
+  정답: n02123159 (tiger_cat) [idx: 282]
+  예측: n02123159 (tiger_cat) [idx: 282]
+  신뢰도: 0.7005
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02123159 (tiger_cat) - 0.7005
+    2. n02123045 (tabby) - 0.2133
+    3. n02124075 (Egyptian_cat) - 0.0845
+    4. n02127052 (lynx) - 0.0017
+    5. n02129604 (tiger) - 0.0000
+
+[Image #14201]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02123597/ILSVRC2012_val_00000211.JPEG
+  정답: n02123597 (Siamese_cat) [idx: 284]
+  예측: n02123597 (Siamese_cat) [idx: 284]
+  신뢰도: 0.9992
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02123597 (Siamese_cat) - 0.9994
+    2. n02085620 (Chihuahua) - 0.0004
+    3. n02096585 (Boston_bull) - 0.0001
+    4. n02108915 (French_bulldog) - 0.0001
+    5. n02124075 (Egyptian_cat) - 0.0000
+
+[Image #14301]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02125311/ILSVRC2012_val_00000012.JPEG
+  정답: n02125311 (cougar) [idx: 286]
+  예측: n02125311 (cougar) [idx: 286]
+  신뢰도: 0.9978
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02125311 (cougar) - 0.9981
+    2. n02127052 (lynx) - 0.0010
+    3. n02128925 (jaguar) - 0.0005
+    4. n02124075 (Egyptian_cat) - 0.0002
+    5. n02123159 (tiger_cat) - 0.0001
+
+[Image #14401]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02128385/ILSVRC2012_val_00000600.JPEG
+  정답: n02128385 (leopard) [idx: 288]
+  예측: n02128385 (leopard) [idx: 288]
+  신뢰도: 0.6591
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02128385 (leopard) - 0.6592
+    2. n02128925 (jaguar) - 0.3321
+    3. n02130308 (cheetah) - 0.0085
+    4. n02127052 (lynx) - 0.0002
+    5. n02655020 (puffer) - 0.0000
+
+[Image #14501]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02128925/ILSVRC2012_val_00000610.JPEG
+  정답: n02128925 (jaguar) [idx: 290]
+  예측: n02128925 (jaguar) [idx: 290]
+  신뢰도: 0.8982
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02128925 (jaguar) - 0.8982
+    2. n02128385 (leopard) - 0.0992
+    3. n02130308 (cheetah) - 0.0025
+    4. n02128757 (snow_leopard) - 0.0000
+    5. n01685808 (whiptail) - 0.0000
+
+[Image #14601]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02129604/ILSVRC2012_val_00000303.JPEG
+  정답: n02129604 (tiger) [idx: 292]
+  예측: n02128925 (jaguar) [idx: 290]
+  신뢰도: 0.9156
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02128925 (jaguar) - 0.9156
+    2. n02128385 (leopard) - 0.0842
+    3. n02130308 (cheetah) - 0.0001
+    4. n02124075 (Egyptian_cat) - 0.0000
+    5. n02129604 (tiger) - 0.0000
+
+[Image #14701]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02132136/ILSVRC2012_val_00000871.JPEG
+  정답: n02132136 (brown_bear) [idx: 294]
+  예측: n02132136 (brown_bear) [idx: 294]
+  신뢰도: 0.8617
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02132136 (brown_bear) - 0.9163
+    2. n02099849 (Chesapeake_Bay_retriever) - 0.0453
+    3. n02111129 (Leonberg) - 0.0168
+    4. n02111277 (Newfoundland) - 0.0134
+    5. n02094114 (Norfolk_terrier) - 0.0082
+
+[Image #14801]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02134084/ILSVRC2012_val_00001498.JPEG
+  정답: n02134084 (ice_bear) [idx: 296]
+  예측: n02134084 (ice_bear) [idx: 296]
+  신뢰도: 0.6230
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02134084 (ice_bear) - 0.6447
+    2. n02114548 (white_wolf) - 0.1824
+    3. n02120079 (Arctic_fox) - 0.1470
+    4. n02104029 (kuvasz) - 0.0189
+    5. n02111500 (Great_Pyrenees) - 0.0070
+
+[Image #14901]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02137549/ILSVRC2012_val_00000518.JPEG
+  정답: n02137549 (mongoose) [idx: 298]
+  예측: n01518878 (ostrich) [idx: 9]
+  신뢰도: 0.2894
+  정답여부: 틀림
+  Top-5 예측:
+    1. n01518878 (ostrich) - 0.6025
+    2. n02095570 (Lakeland_terrier) - 0.1084
+    3. n02018795 (bustard) - 0.1063
+    4. n02093754 (Border_terrier) - 0.0999
+    5. n02096051 (Airedale) - 0.0830
+
+[Image #15001]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02165105/ILSVRC2012_val_00000361.JPEG
+  정답: n02165105 (tiger_beetle) [idx: 300]
+  예측: n02165105 (tiger_beetle) [idx: 300]
+  신뢰도: 0.9996
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02165105 (tiger_beetle) - 0.9996
+    2. n02268443 (dragonfly) - 0.0002
+    3. n02168699 (long-horned_beetle) - 0.0001
+    4. n02268853 (damselfly) - 0.0001
+    5. n02219486 (ant) - 0.0000
+
+[Image #15101]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02167151/ILSVRC2012_val_00000956.JPEG
+  정답: n02167151 (ground_beetle) [idx: 302]
+  예측: n02165105 (tiger_beetle) [idx: 300]
+  신뢰도: 0.4980
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02165105 (tiger_beetle) - 0.5154
+    2. n02167151 (ground_beetle) - 0.2838
+    3. n02233338 (cockroach) - 0.1572
+    4. n02229544 (cricket) - 0.0250
+    5. n02168699 (long-horned_beetle) - 0.0185
+
+[Image #15201]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02169497/ILSVRC2012_val_00000510.JPEG
+  정답: n02169497 (leaf_beetle) [idx: 304]
+  예측: n02165456 (ladybug) [idx: 301]
+  신뢰도: 0.5337
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02165456 (ladybug) - 0.5453
+    2. n02169497 (leaf_beetle) - 0.3703
+    3. n12620546 (hip) - 0.0663
+    4. n02229544 (cricket) - 0.0109
+    5. n02168699 (long-horned_beetle) - 0.0072
+
+[Image #15301]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02174001/ILSVRC2012_val_00000692.JPEG
+  정답: n02174001 (rhinoceros_beetle) [idx: 306]
+  예측: n02174001 (rhinoceros_beetle) [idx: 306]
+  신뢰도: 0.9857
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02174001 (rhinoceros_beetle) - 0.9935
+    2. n01980166 (fiddler_crab) - 0.0021
+    3. n02219486 (ant) - 0.0020
+    4. n02168699 (long-horned_beetle) - 0.0015
+    5. n02167151 (ground_beetle) - 0.0009
+
+[Image #15401]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02190166/ILSVRC2012_val_00001763.JPEG
+  정답: n02190166 (fly) [idx: 308]
+  예측: n02190166 (fly) [idx: 308]
+  신뢰도: 0.8512
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02190166 (fly) - 0.8778
+    2. n04589890 (window_screen) - 0.0616
+    3. n01775062 (wolf_spider) - 0.0237
+    4. n02268443 (dragonfly) - 0.0215
+    5. n02256656 (cicada) - 0.0154
+
+[Image #15501]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02219486/ILSVRC2012_val_00000407.JPEG
+  정답: n02219486 (ant) [idx: 310]
+  예측: n02219486 (ant) [idx: 310]
+  신뢰도: 0.6402
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02219486 (ant) - 0.7375
+    2. n02168699 (long-horned_beetle) - 0.0798
+    3. n02167151 (ground_beetle) - 0.0778
+    4. n02229544 (cricket) - 0.0682
+    5. n02190166 (fly) - 0.0366
+
+[Image #15601]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02229544/ILSVRC2012_val_00001873.JPEG
+  정답: n02229544 (cricket) [idx: 312]
+  예측: n03633091 (ladle) [idx: 618]
+  신뢰도: 0.0341
+  정답여부: 틀림
+  Top-5 예측:
+    1. n03633091 (ladle) - 0.2176
+    2. n01944390 (snail) - 0.2160
+    3. n02229544 (cricket) - 0.2067
+    4. n03786901 (mortar) - 0.1821
+    5. n01667778 (terrapin) - 0.1775
+
+[Image #15701]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02233338/ILSVRC2012_val_00001082.JPEG
+  정답: n02233338 (cockroach) [idx: 314]
+  예측: n02233338 (cockroach) [idx: 314]
+  신뢰도: 0.6026
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02233338 (cockroach) - 0.6838
+    2. n02169497 (leaf_beetle) - 0.1690
+    3. n02168699 (long-horned_beetle) - 0.0663
+    4. n02229544 (cricket) - 0.0541
+    5. n02190166 (fly) - 0.0268
+
+[Image #15801]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02256656/ILSVRC2012_val_00002649.JPEG
+  정답: n02256656 (cicada) [idx: 316]
+  예측: n02256656 (cicada) [idx: 316]
+  신뢰도: 0.9458
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02256656 (cicada) - 0.9601
+    2. n09229709 (bubble) - 0.0150
+    3. n01910747 (jellyfish) - 0.0094
+    4. n02190166 (fly) - 0.0079
+    5. n02259212 (leafhopper) - 0.0075
+
+[Image #15901]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02264363/ILSVRC2012_val_00001466.JPEG
+  정답: n02264363 (lacewing) [idx: 318]
+  예측: n02264363 (lacewing) [idx: 318]
+  신뢰도: 0.4476
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02264363 (lacewing) - 0.5609
+    2. n02206856 (bee) - 0.1900
+    3. n02165456 (ladybug) - 0.1256
+    4. n02190166 (fly) - 0.0667
+    5. n02259212 (leafhopper) - 0.0567
+
+[Image #16001]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02268853/ILSVRC2012_val_00000639.JPEG
+  정답: n02268853 (damselfly) [idx: 320]
+  예측: n02268853 (damselfly) [idx: 320]
+  신뢰도: 0.8648
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02268853 (damselfly) - 0.8751
+    2. n02268443 (dragonfly) - 0.0911
+    3. n02165105 (tiger_beetle) - 0.0222
+    4. n02264363 (lacewing) - 0.0064
+    5. n02190166 (fly) - 0.0053
+
+[Image #16101]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02277742/ILSVRC2012_val_00000810.JPEG
+  정답: n02277742 (ringlet) [idx: 322]
+  예측: n07730033 (cardoon) [idx: 946]
+  신뢰도: 0.6002
+  정답여부: 틀림
+  Top-5 예측:
+    1. n07730033 (cardoon) - 0.6401
+    2. n07718747 (artichoke) - 0.1605
+    3. n02277742 (ringlet) - 0.1104
+    4. n02206856 (bee) - 0.0669
+    5. n02276258 (admiral) - 0.0221
+
+[Image #16201]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02280649/ILSVRC2012_val_00000031.JPEG
+  정답: n02280649 (cabbage_butterfly) [idx: 324]
+  예측: n02280649 (cabbage_butterfly) [idx: 324]
+  신뢰도: 0.9872
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02280649 (cabbage_butterfly) - 0.9874
+    2. n02281406 (sulphur_butterfly) - 0.0117
+    3. n02281787 (lycaenid) - 0.0004
+    4. n02277742 (ringlet) - 0.0004
+    5. n02206856 (bee) - 0.0002
+
+[Image #16301]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02281787/ILSVRC2012_val_00001536.JPEG
+  정답: n02281787 (lycaenid) [idx: 326]
+  예측: n02281787 (lycaenid) [idx: 326]
+  신뢰도: 0.9900
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02281787 (lycaenid) - 0.9900
+    2. n02281406 (sulphur_butterfly) - 0.0084
+    3. n02277742 (ringlet) - 0.0015
+    4. n02280649 (cabbage_butterfly) - 0.0000
+    5. n02169497 (leaf_beetle) - 0.0000
+
+[Image #16401]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02319095/ILSVRC2012_val_00000138.JPEG
+  정답: n02319095 (sea_urchin) [idx: 328]
+  예측: n02319095 (sea_urchin) [idx: 328]
+  신뢰도: 0.7526
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02319095 (sea_urchin) - 0.8087
+    2. n01914609 (sea_anemone) - 0.0749
+    3. n07730033 (cardoon) - 0.0550
+    4. n02643566 (lionfish) - 0.0313
+    5. n01950731 (sea_slug) - 0.0301
+
+[Image #16501]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02325366/ILSVRC2012_val_00000097.JPEG
+  정답: n02325366 (wood_rabbit) [idx: 330]
+  예측: n02325366 (wood_rabbit) [idx: 330]
+  신뢰도: 0.7299
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02325366 (wood_rabbit) - 0.7301
+    2. n02326432 (hare) - 0.2697
+    3. n01883070 (wombat) - 0.0001
+    4. n02363005 (beaver) - 0.0001
+    5. n02114855 (coyote) - 0.0000
+
+[Image #16601]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02328150/ILSVRC2012_val_00000010.JPEG
+  정답: n02328150 (Angora) [idx: 332]
+  예측: n02342885 (hamster) [idx: 333]
+  신뢰도: 0.1964
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02342885 (hamster) - 0.2763
+    2. n02112018 (Pomeranian) - 0.2416
+    3. n02085936 (Maltese_dog) - 0.1879
+    4. n02328150 (Angora) - 0.1734
+    5. n02123394 (Persian_cat) - 0.1207
+
+[Image #16701]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02346627/ILSVRC2012_val_00000007.JPEG
+  정답: n02346627 (porcupine) [idx: 334]
+  예측: n02346627 (porcupine) [idx: 334]
+  신뢰도: 0.8228
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02346627 (porcupine) - 0.8846
+    2. n02444819 (otter) - 0.0600
+    3. n01872401 (echidna) - 0.0321
+    4. n02488702 (colobus) - 0.0135
+    5. n02364673 (guinea_pig) - 0.0099
+
+[Image #16801]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02361337/ILSVRC2012_val_00000675.JPEG
+  정답: n02361337 (marmot) [idx: 336]
+  예측: n02361337 (marmot) [idx: 336]
+  신뢰도: 0.8713
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02361337 (marmot) - 0.8888
+    2. n02363005 (beaver) - 0.0624
+    3. n02442845 (mink) - 0.0169
+    4. n02444819 (otter) - 0.0164
+    5. n02137549 (mongoose) - 0.0154
+
+[Image #16901]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02364673/ILSVRC2012_val_00000565.JPEG
+  정답: n02364673 (guinea_pig) [idx: 338]
+  예측: n03630383 (lab_coat) [idx: 617]
+  신뢰도: 0.4020
+  정답여부: 틀림
+  Top-5 예측:
+    1. n03630383 (lab_coat) - 0.5931
+    2. n10148035 (groom) - 0.1797
+    3. n02883205 (bow_tie) - 0.1695
+    4. n04317175 (stethoscope) - 0.0360
+    5. n07615774 (ice_lolly) - 0.0218
+
+[Image #17001]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02391049/ILSVRC2012_val_00002070.JPEG
+  정답: n02391049 (zebra) [idx: 340]
+  예측: n02391049 (zebra) [idx: 340]
+  신뢰도: 1.0000
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02391049 (zebra) - 1.0000
+    2. n02129604 (tiger) - 0.0000
+    3. n02123159 (tiger_cat) - 0.0000
+    4. n02643566 (lionfish) - 0.0000
+    5. n01798484 (prairie_chicken) - 0.0000
+
+[Image #17101]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02396427/ILSVRC2012_val_00002006.JPEG
+  정답: n02396427 (wild_boar) [idx: 342]
+  예측: n02396427 (wild_boar) [idx: 342]
+  신뢰도: 0.5450
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02396427 (wild_boar) - 0.6505
+    2. n02111129 (Leonberg) - 0.1539
+    3. n02395406 (hog) - 0.0917
+    4. n02117135 (hyena) - 0.0794
+    5. n02114367 (timber_wolf) - 0.0245
+
+[Image #17201]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02398521/ILSVRC2012_val_00001066.JPEG
+  정답: n02398521 (hippopotamus) [idx: 344]
+  예측: n02398521 (hippopotamus) [idx: 344]
+  신뢰도: 0.9919
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02398521 (hippopotamus) - 0.9920
+    2. n02077923 (sea_lion) - 0.0052
+    3. n02408429 (water_buffalo) - 0.0026
+    4. n02444819 (otter) - 0.0001
+    5. n02397096 (warthog) - 0.0001
+
+[Image #17301]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02408429/ILSVRC2012_val_00000306.JPEG
+  정답: n02408429 (water_buffalo) [idx: 346]
+  예측: n02408429 (water_buffalo) [idx: 346]
+  신뢰도: 0.7441
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02408429 (water_buffalo) - 0.8331
+    2. n02398521 (hippopotamus) - 0.1056
+    3. n02077923 (sea_lion) - 0.0250
+    4. n02504013 (Indian_elephant) - 0.0208
+    5. n02444819 (otter) - 0.0155
+
+[Image #17401]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02412080/ILSVRC2012_val_00001027.JPEG
+  정답: n02412080 (ram) [idx: 348]
+  예측: n02437616 (llama) [idx: 355]
+  신뢰도: 0.3604
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02437616 (llama) - 0.4458
+    2. n02412080 (ram) - 0.4155
+    3. n01616318 (vulture) - 0.0560
+    4. n02417914 (ibex) - 0.0501
+    5. n01514668 (cock) - 0.0327
+
+[Image #17501]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02417914/ILSVRC2012_val_00000444.JPEG
+  정답: n02417914 (ibex) [idx: 350]
+  예측: n02417914 (ibex) [idx: 350]
+  신뢰도: 0.9950
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02417914 (ibex) - 0.9962
+    2. n02412080 (ram) - 0.0019
+    3. n02415577 (bighorn) - 0.0012
+    4. n02396427 (wild_boar) - 0.0005
+    5. n02423022 (gazelle) - 0.0002
+
+[Image #17601]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02422699/ILSVRC2012_val_00000127.JPEG
+  정답: n02422699 (impala) [idx: 352]
+  예측: n02422699 (impala) [idx: 352]
+  신뢰도: 0.5121
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02422699 (impala) - 0.6739
+    2. n02423022 (gazelle) - 0.1507
+    3. n03967562 (plow) - 0.0763
+    4. n02397096 (warthog) - 0.0522
+    5. n02115913 (dhole) - 0.0469
+
+[Image #17701]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02437312/ILSVRC2012_val_00002271.JPEG
+  정답: n02437312 (Arabian_camel) [idx: 354]
+  예측: n02437312 (Arabian_camel) [idx: 354]
+  신뢰도: 0.6808
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02437312 (Arabian_camel) - 0.7113
+    2. n02422699 (impala) - 0.1222
+    3. n02423022 (gazelle) - 0.0750
+    4. n02422106 (hartebeest) - 0.0691
+    5. n03868242 (oxcart) - 0.0224
+
+[Image #17801]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02441942/ILSVRC2012_val_00000723.JPEG
+  정답: n02441942 (weasel) [idx: 356]
+  예측: n02442845 (mink) [idx: 357]
+  신뢰도: 0.2799
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02442845 (mink) - 0.3730
+    2. n02441942 (weasel) - 0.2061
+    3. n02093991 (Irish_terrier) - 0.1760
+    4. n02099849 (Chesapeake_Bay_retriever) - 0.1409
+    5. n02443114 (polecat) - 0.1040
+
+[Image #17901]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02443114/ILSVRC2012_val_00000055.JPEG
+  정답: n02443114 (polecat) [idx: 358]
+  예측: n02342885 (hamster) [idx: 333]
+  신뢰도: 0.1513
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02342885 (hamster) - 0.2714
+    2. n02441942 (weasel) - 0.2590
+    3. n02443484 (black-footed_ferret) - 0.1803
+    4. n02123597 (Siamese_cat) - 0.1505
+    5. n02085620 (Chihuahua) - 0.1387
+
+[Image #18001]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02444819/ILSVRC2012_val_00001407.JPEG
+  정답: n02444819 (otter) [idx: 360]
+  예측: n02444819 (otter) [idx: 360]
+  신뢰도: 0.9318
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02444819 (otter) - 0.9357
+    2. n02077923 (sea_lion) - 0.0403
+    3. n02447366 (badger) - 0.0145
+    4. n02361337 (marmot) - 0.0085
+    5. n02442845 (mink) - 0.0010
+
+[Image #18101]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02447366/ILSVRC2012_val_00000726.JPEG
+  정답: n02447366 (badger) [idx: 362]
+  예측: n02447366 (badger) [idx: 362]
+  신뢰도: 1.0000
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02447366 (badger) - 1.0000
+    2. n02120505 (grey_fox) - 0.0000
+    3. n02445715 (skunk) - 0.0000
+    4. n02396427 (wild_boar) - 0.0000
+    5. n02114367 (timber_wolf) - 0.0000
+
+[Image #18201]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02457408/ILSVRC2012_val_00001442.JPEG
+  정답: n02457408 (three-toed_sloth) [idx: 364]
+  예측: n02457408 (three-toed_sloth) [idx: 364]
+  신뢰도: 0.9999
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02457408 (three-toed_sloth) - 1.0000
+    2. n01855672 (goose) - 0.0000
+    3. n01560419 (bulbul) - 0.0000
+    4. n02489166 (proboscis_monkey) - 0.0000
+    5. n01532829 (house_finch) - 0.0000
+
+[Image #18301]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02480855/ILSVRC2012_val_00000093.JPEG
+  정답: n02480855 (gorilla) [idx: 366]
+  예측: n02128925 (jaguar) [idx: 290]
+  신뢰도: 0.4467
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02128925 (jaguar) - 0.6481
+    2. n02093256 (Staffordshire_bullterrier) - 0.0958
+    3. n02480855 (gorilla) - 0.0912
+    4. n02112137 (chow) - 0.0850
+    5. n02106662 (German_shepherd) - 0.0799
+
+[Image #18401]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02483362/ILSVRC2012_val_00003388.JPEG
+  정답: n02483362 (gibbon) [idx: 368]
+  예측: n02129165 (lion) [idx: 291]
+  신뢰도: 0.2350
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02129165 (lion) - 0.3934
+    2. n02457408 (three-toed_sloth) - 0.1861
+    3. n02415577 (bighorn) - 0.1828
+    4. n02483362 (gibbon) - 0.1195
+    5. n02489166 (proboscis_monkey) - 0.1182
+
+[Image #18501]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02484975/ILSVRC2012_val_00000013.JPEG
+  정답: n02484975 (guenon) [idx: 370]
+  예측: n02484975 (guenon) [idx: 370]
+  신뢰도: 0.8507
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02484975 (guenon) - 0.8508
+    2. n02486261 (patas) - 0.1482
+    3. n02488291 (langur) - 0.0006
+    4. n02487347 (macaque) - 0.0003
+    5. n02488702 (colobus) - 0.0001
+
+[Image #18601]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02486410/ILSVRC2012_val_00000486.JPEG
+  정답: n02486410 (baboon) [idx: 372]
+  예측: n02486410 (baboon) [idx: 372]
+  신뢰도: 0.3261
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02486410 (baboon) - 0.4842
+    2. n02443484 (black-footed_ferret) - 0.2082
+    3. n02093754 (Border_terrier) - 0.1808
+    4. n02487347 (macaque) - 0.0890
+    5. n02090721 (Irish_wolfhound) - 0.0379
+
+[Image #18701]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02488291/ILSVRC2012_val_00001254.JPEG
+  정답: n02488291 (langur) [idx: 374]
+  예측: n02488291 (langur) [idx: 374]
+  신뢰도: 0.6353
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02488291 (langur) - 0.6515
+    2. n02481823 (chimpanzee) - 0.1613
+    3. n02488702 (colobus) - 0.1398
+    4. n02493793 (spider_monkey) - 0.0334
+    5. n02484975 (guenon) - 0.0141
+
+[Image #18801]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02489166/ILSVRC2012_val_00000206.JPEG
+  정답: n02489166 (proboscis_monkey) [idx: 376]
+  예측: n02489166 (proboscis_monkey) [idx: 376]
+  신뢰도: 0.4834
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02489166 (proboscis_monkey) - 0.6960
+    2. n02492660 (howler_monkey) - 0.0865
+    3. n02494079 (squirrel_monkey) - 0.0763
+    4. n07754684 (jackfruit) - 0.0723
+    5. n02493793 (spider_monkey) - 0.0689
+
+[Image #18901]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02492035/ILSVRC2012_val_00002450.JPEG
+  정답: n02492035 (capuchin) [idx: 378]
+  예측: n02493793 (spider_monkey) [idx: 381]
+  신뢰도: 0.6787
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02493793 (spider_monkey) - 0.6997
+    2. n02484975 (guenon) - 0.2426
+    3. n02481823 (chimpanzee) - 0.0262
+    4. n02487347 (macaque) - 0.0163
+    5. n02492035 (capuchin) - 0.0152
+
+[Image #19001]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02493509/ILSVRC2012_val_00000340.JPEG
+  정답: n02493509 (titi) [idx: 380]
+  예측: n02493509 (titi) [idx: 380]
+  신뢰도: 0.9697
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02493509 (titi) - 0.9718
+    2. n02490219 (marmoset) - 0.0223
+    3. n02493793 (spider_monkey) - 0.0031
+    4. n02484975 (guenon) - 0.0019
+    5. n02486261 (patas) - 0.0009
+
+[Image #19101]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02494079/ILSVRC2012_val_00002011.JPEG
+  정답: n02494079 (squirrel_monkey) [idx: 382]
+  예측: n02494079 (squirrel_monkey) [idx: 382]
+  신뢰도: 0.9663
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02494079 (squirrel_monkey) - 0.9668
+    2. n02493793 (spider_monkey) - 0.0212
+    3. n02493509 (titi) - 0.0113
+    4. n02484975 (guenon) - 0.0004
+    5. n02486261 (patas) - 0.0002
+
+[Image #19201]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02500267/ILSVRC2012_val_00001025.JPEG
+  정답: n02500267 (indri) [idx: 384]
+  예측: n02500267 (indri) [idx: 384]
+  신뢰도: 0.4642
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02500267 (indri) - 0.5914
+    2. n02497673 (Madagascar_cat) - 0.1801
+    3. n03207941 (dishwasher) - 0.1010
+    4. n02364673 (guinea_pig) - 0.0669
+    5. n02493509 (titi) - 0.0606
+
+[Image #19301]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02504458/ILSVRC2012_val_00001177.JPEG
+  정답: n02504458 (African_elephant) [idx: 386]
+  예측: n01871265 (tusker) [idx: 101]
+  신뢰도: 0.5981
+  정답여부: 틀림
+  Top-5 예측:
+    1. n01871265 (tusker) - 0.6391
+    2. n02504013 (Indian_elephant) - 0.2162
+    3. n02408429 (water_buffalo) - 0.0543
+    4. n02403003 (ox) - 0.0531
+    5. n02398521 (hippopotamus) - 0.0373
+
+[Image #19401]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02510455/ILSVRC2012_val_00000481.JPEG
+  정답: n02510455 (giant_panda) [idx: 388]
+  예측: n02510455 (giant_panda) [idx: 388]
+  신뢰도: 0.9277
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02510455 (giant_panda) - 0.9390
+    2. n02134084 (ice_bear) - 0.0546
+    3. n02132136 (brown_bear) - 0.0029
+    4. n02437616 (llama) - 0.0017
+    5. n02412080 (ram) - 0.0017
+
+[Image #19501]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02526121/ILSVRC2012_val_00000066.JPEG
+  정답: n02526121 (eel) [idx: 390]
+  예측: n02526121 (eel) [idx: 390]
+  신뢰도: 0.7461
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02526121 (eel) - 0.7486
+    2. n02655020 (puffer) - 0.2470
+    3. n01664065 (loggerhead) - 0.0021
+    4. n02606052 (rock_beauty) - 0.0016
+    5. n02074367 (dugong) - 0.0007
+
+[Image #19601]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02606052/ILSVRC2012_val_00000124.JPEG
+  정답: n02606052 (rock_beauty) [idx: 392]
+  예측: n02655020 (puffer) [idx: 397]
+  신뢰도: 0.6043
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02655020 (puffer) - 0.6649
+    2. n01950731 (sea_slug) - 0.2261
+    3. n04332243 (strainer) - 0.0641
+    4. n07734744 (mushroom) - 0.0269
+    5. n02526121 (eel) - 0.0180
+
+[Image #19701]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02640242/ILSVRC2012_val_00000050.JPEG
+  정답: n02640242 (sturgeon) [idx: 394]
+  예측: n04532106 (vestment) [idx: 887]
+  신뢰도: 0.6449
+  정답여부: 틀림
+  Top-5 예측:
+    1. n04532106 (vestment) - 0.8139
+    2. n03045698 (cloak) - 0.0661
+    3. n03594734 (jean) - 0.0429
+    4. n04325704 (stole) - 0.0394
+    5. n04599235 (wool) - 0.0377
+
+[Image #19801]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02643566/ILSVRC2012_val_00000196.JPEG
+  정답: n02643566 (lionfish) [idx: 396]
+  예측: n02643566 (lionfish) [idx: 396]
+  신뢰도: 1.0000
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02643566 (lionfish) - 1.0000
+    2. n01914609 (sea_anemone) - 0.0000
+    3. n02319095 (sea_urchin) - 0.0000
+    4. n02607072 (anemone_fish) - 0.0000
+    5. n09256479 (coral_reef) - 0.0000
+
+[Image #19901]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02666196/ILSVRC2012_val_00000038.JPEG
+  정답: n02666196 (abacus) [idx: 398]
+  예측: n12144580 (corn) [idx: 987]
+  신뢰도: 0.2362
+  정답여부: 틀림
+  Top-5 예측:
+    1. n12144580 (corn) - 0.3936
+    2. n02666196 (abacus) - 0.3062
+    3. n13133613 (ear) - 0.1588
+    4. n03871628 (packet) - 0.0725
+    5. n07697537 (hotdog) - 0.0691
+
+[Image #20001]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02669723/ILSVRC2012_val_00000851.JPEG
+  정답: n02669723 (academic_gown) [idx: 400]
+  예측: n02669723 (academic_gown) [idx: 400]
+  신뢰도: 0.2462
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02669723 (academic_gown) - 0.4317
+    2. n03787032 (mortarboard) - 0.1979
+    3. n10148035 (groom) - 0.1551
+    4. n04532106 (vestment) - 0.1400
+    5. n02883205 (bow_tie) - 0.0753
+
+[Image #20101]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02676566/ILSVRC2012_val_00001416.JPEG
+  정답: n02676566 (acoustic_guitar) [idx: 402]
+  예측: n04141076 (sax) [idx: 776]
+  신뢰도: 0.1716
+  정답여부: 틀림
+  Top-5 예측:
+    1. n04141076 (sax) - 0.4947
+    2. n02787622 (banjo) - 0.2087
+    3. n04584207 (wig) - 0.1115
+    4. n03372029 (flute) - 0.1088
+    5. n12144580 (corn) - 0.0762
+
+[Image #20201]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02690373/ILSVRC2012_val_00000631.JPEG
+  정답: n02690373 (airliner) [idx: 404]
+  예측: n02690373 (airliner) [idx: 404]
+  신뢰도: 0.9952
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02690373 (airliner) - 0.9959
+    2. n04592741 (wing) - 0.0018
+    3. n04552348 (warplane) - 0.0017
+    4. n04483307 (trimaran) - 0.0003
+    5. n02692877 (airship) - 0.0002
+
+[Image #20301]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02699494/ILSVRC2012_val_00000932.JPEG
+  정답: n02699494 (altar) [idx: 406]
+  예측: n02699494 (altar) [idx: 406]
+  신뢰도: 0.1763
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02699494 (altar) - 0.4708
+    2. n04476259 (tray) - 0.1780
+    3. n03017168 (chime) - 0.1319
+    4. n09229709 (bubble) - 0.1106
+    5. n04081281 (restaurant) - 0.1087
+
+[Image #20401]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02704792/ILSVRC2012_val_00000998.JPEG
+  정답: n02704792 (amphibian) [idx: 408]
+  예측: n04389033 (tank) [idx: 847]
+  신뢰도: 0.8193
+  정답여부: 틀림
+  Top-5 예측:
+    1. n04389033 (tank) - 0.8277
+    2. n03478589 (half_track) - 0.1619
+    3. n02749479 (assault_rifle) - 0.0043
+    4. n02704792 (amphibian) - 0.0033
+    5. n03763968 (military_uniform) - 0.0028
+
+[Image #20501]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02727426/ILSVRC2012_val_00002391.JPEG
+  정답: n02727426 (apiary) [idx: 410]
+  예측: n02727426 (apiary) [idx: 410]
+  신뢰도: 0.8798
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02727426 (apiary) - 0.9620
+    2. n03146219 (cuirass) - 0.0132
+    3. n02895154 (breastplate) - 0.0128
+    4. n07715103 (cauliflower) - 0.0063
+    5. n03958227 (plastic_bag) - 0.0056
+
+[Image #20601]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02747177/ILSVRC2012_val_00000422.JPEG
+  정답: n02747177 (ashcan) [idx: 412]
+  예측: n02909870 (bucket) [idx: 463]
+  신뢰도: 0.5595
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02909870 (bucket) - 0.5788
+    2. n02747177 (ashcan) - 0.3478
+    3. n02795169 (barrel) - 0.0462
+    4. n04049303 (rain_barrel) - 0.0138
+    5. n04560804 (water_jug) - 0.0134
+
+[Image #20701]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02769748/ILSVRC2012_val_00000459.JPEG
+  정답: n02769748 (backpack) [idx: 414]
+  예측: n04235860 (sleeping_bag) [idx: 797]
+  신뢰도: 0.6634
+  정답여부: 틀림
+  Top-5 예측:
+    1. n04235860 (sleeping_bag) - 0.7617
+    2. n04370456 (sweatshirt) - 0.0974
+    3. n03595614 (jersey) - 0.0946
+    4. n02769748 (backpack) - 0.0359
+    5. n03792972 (mountain_tent) - 0.0103
+
+[Image #20801]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02777292/ILSVRC2012_val_00000494.JPEG
+  정답: n02777292 (balance_beam) [idx: 416]
+  예측: n02777292 (balance_beam) [idx: 416]
+  신뢰도: 0.8394
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02777292 (balance_beam) - 0.8997
+    2. n04039381 (racket) - 0.0618
+    3. n03535780 (horizontal_bar) - 0.0238
+    4. n03888605 (parallel_bars) - 0.0084
+    5. n04509417 (unicycle) - 0.0063
+
+[Image #20901]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02783161/ILSVRC2012_val_00000721.JPEG
+  정답: n02783161 (ballpoint) [idx: 418]
+  예측: n03388183 (fountain_pen) [idx: 563]
+  신뢰도: 0.5144
+  정답여부: 틀림
+  Top-5 예측:
+    1. n03388183 (fountain_pen) - 0.5468
+    2. n02783161 (ballpoint) - 0.3400
+    3. n04116512 (rubber_eraser) - 0.0395
+    4. n04154565 (screwdriver) - 0.0394
+    5. n03876231 (paintbrush) - 0.0342
+
+[Image #21001]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02787622/ILSVRC2012_val_00000315.JPEG
+  정답: n02787622 (banjo) [idx: 420]
+  예측: n02804610 (bassoon) [idx: 432]
+  신뢰도: 0.1347
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02804610 (bassoon) - 0.3033
+    2. n03838899 (oboe) - 0.2651
+    3. n03372029 (flute) - 0.2360
+    4. n03110669 (cornet) - 0.1044
+    5. n03394916 (French_horn) - 0.0912
+
+[Image #21101]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02790996/ILSVRC2012_val_00004406.JPEG
+  정답: n02790996 (barbell) [idx: 422]
+  예측: n03255030 (dumbbell) [idx: 543]
+  신뢰도: 0.6199
+  정답여부: 틀림
+  Top-5 예측:
+    1. n03255030 (dumbbell) - 0.6349
+    2. n02790996 (barbell) - 0.3587
+    3. n03954731 (plane) - 0.0029
+    4. n04517823 (vacuum) - 0.0022
+    5. n03970156 (plunger) - 0.0013
+
+[Image #21201]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02791270/ILSVRC2012_val_00000076.JPEG
+  정답: n02791270 (barbershop) [idx: 424]
+  예측: n02871525 (bookshop) [idx: 454]
+  신뢰도: 0.2998
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02871525 (bookshop) - 0.4090
+    2. n02791270 (barbershop) - 0.2715
+    3. n04443257 (tobacco_shop) - 0.1788
+    4. n02776631 (bakery) - 0.0794
+    5. n03661043 (library) - 0.0613
+
+[Image #21301]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02794156/ILSVRC2012_val_00000287.JPEG
+  정답: n02794156 (barometer) [idx: 426]
+  예측: n02794156 (barometer) [idx: 426]
+  신뢰도: 0.8179
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02794156 (barometer) - 0.8226
+    2. n04328186 (stopwatch) - 0.1558
+    3. n03706229 (magnetic_compass) - 0.0111
+    4. n04141975 (scale) - 0.0060
+    5. n03075370 (combination_lock) - 0.0045
+
+[Image #21401]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02797295/ILSVRC2012_val_00002509.JPEG
+  정답: n02797295 (barrow) [idx: 428]
+  예측: n02797295 (barrow) [idx: 428]
+  신뢰도: 0.8668
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02797295 (barrow) - 0.8699
+    2. n03967562 (plow) - 0.1286
+    3. n02939185 (caldron) - 0.0007
+    4. n04371774 (swing) - 0.0004
+    5. n04208210 (shovel) - 0.0004
+
+[Image #21501]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02802426/ILSVRC2012_val_00001517.JPEG
+  정답: n02802426 (basketball) [idx: 430]
+  예측: n03495258 (harp) [idx: 594]
+  신뢰도: 0.1997
+  정답여부: 틀림
+  Top-5 예측:
+    1. n03495258 (harp) - 0.3612
+    2. n04296562 (stage) - 0.1926
+    3. n02804610 (bassoon) - 0.1818
+    4. n02992211 (cello) - 0.1756
+    5. n04540053 (volleyball) - 0.0888
+
+[Image #21601]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02804610/ILSVRC2012_val_00001090.JPEG
+  정답: n02804610 (bassoon) [idx: 432]
+  예측: n02804610 (bassoon) [idx: 432]
+  신뢰도: 0.6668
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02804610 (bassoon) - 0.7692
+    2. n04208210 (shovel) - 0.1464
+    3. n04367480 (swab) - 0.0372
+    4. n04228054 (ski) - 0.0237
+    5. n03594734 (jean) - 0.0236
+
+[Image #21701]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02808304/ILSVRC2012_val_00001384.JPEG
+  정답: n02808304 (bath_towel) [idx: 434]
+  예측: n03938244 (pillow) [idx: 721]
+  신뢰도: 0.3344
+  정답여부: 틀림
+  Top-5 예측:
+    1. n03938244 (pillow) - 0.5387
+    2. n02808304 (bath_towel) - 0.2306
+    3. n04033995 (quilt) - 0.0829
+    4. n03188531 (diaper) - 0.0740
+    5. n03207743 (dishrag) - 0.0739
+
+[Image #21801]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02814533/ILSVRC2012_val_00000175.JPEG
+  정답: n02814533 (beach_wagon) [idx: 436]
+  예측: n03895866 (passenger_car) [idx: 705]
+  신뢰도: 0.2295
+  정답여부: 틀림
+  Top-5 예측:
+    1. n03895866 (passenger_car) - 0.3128
+    2. n03272562 (electric_locomotive) - 0.2414
+    3. n03769881 (minibus) - 0.2378
+    4. n02814533 (beach_wagon) - 0.1115
+    5. n04065272 (recreational_vehicle) - 0.0964
+
+[Image #21901]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02815834/ILSVRC2012_val_00000253.JPEG
+  정답: n02815834 (beaker) [idx: 438]
+  예측: n02909870 (bucket) [idx: 463]
+  신뢰도: 0.5836
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02909870 (bucket) - 0.7125
+    2. n03133878 (Crock_Pot) - 0.0982
+    3. n02747177 (ashcan) - 0.0822
+    4. n03733805 (measuring_cup) - 0.0707
+    5. n03063599 (coffee_mug) - 0.0365
+
+[Image #22001]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02823428/ILSVRC2012_val_00000654.JPEG
+  정답: n02823428 (beer_bottle) [idx: 440]
+  예측: n02823428 (beer_bottle) [idx: 440]
+  신뢰도: 0.1876
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02823428 (beer_bottle) - 0.4491
+    2. n03063689 (coffeepot) - 0.1959
+    3. n03633091 (ladle) - 0.1201
+    4. n02804610 (bassoon) - 0.1193
+    5. n03983396 (pop_bottle) - 0.1156
+
+[Image #22101]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02825657/ILSVRC2012_val_00001103.JPEG
+  정답: n02825657 (bell_cote) [idx: 442]
+  예측: n02825657 (bell_cote) [idx: 442]
+  신뢰도: 0.9445
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02825657 (bell_cote) - 0.9648
+    2. n03028079 (church) - 0.0148
+    3. n03903868 (pedestal) - 0.0082
+    4. n03781244 (monastery) - 0.0068
+    5. n02980441 (castle) - 0.0054
+
+[Image #22201]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02835271/ILSVRC2012_val_00000953.JPEG
+  정답: n02835271 (bicycle-built-for-two) [idx: 444]
+  예측: n04509417 (unicycle) [idx: 880]
+  신뢰도: 0.1198
+  정답여부: 틀림
+  Top-5 예측:
+    1. n04509417 (unicycle) - 0.3697
+    2. n04039381 (racket) - 0.2047
+    3. n04482393 (tricycle) - 0.1512
+    4. n03250847 (drumstick) - 0.1483
+    5. n03141823 (crutch) - 0.1261
+
+[Image #22301]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02840245/ILSVRC2012_val_00003446.JPEG
+  정답: n02840245 (binder) [idx: 446]
+  예측: n02840245 (binder) [idx: 446]
+  신뢰도: 0.8991
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02840245 (binder) - 0.9382
+    2. n03372029 (flute) - 0.0239
+    3. n02804610 (bassoon) - 0.0181
+    4. n03388183 (fountain_pen) - 0.0130
+    5. n03110669 (cornet) - 0.0068
+
+[Image #22401]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02843684/ILSVRC2012_val_00000514.JPEG
+  정답: n02843684 (birdhouse) [idx: 448]
+  예측: n06794110 (street_sign) [idx: 919]
+  신뢰도: 0.3025
+  정답여부: 틀림
+  Top-5 예측:
+    1. n06794110 (street_sign) - 0.4680
+    2. n03032252 (cinema) - 0.2107
+    3. n04552348 (warplane) - 0.1549
+    4. n03874293 (paddlewheel) - 0.0857
+    5. n03126707 (crane) - 0.0807
+
+[Image #22501]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02860847/ILSVRC2012_val_00000601.JPEG
+  정답: n02860847 (bobsled) [idx: 450]
+  예측: n02797295 (barrow) [idx: 428]
+  신뢰도: 0.0888
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02797295 (barrow) - 0.2606
+    2. n03791053 (motor_scooter) - 0.2152
+    3. n04336792 (stretcher) - 0.1806
+    4. n02860847 (bobsled) - 0.1772
+    5. n04311174 (steel_drum) - 0.1663
+
+[Image #22601]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02869837/ILSVRC2012_val_00000906.JPEG
+  정답: n02869837 (bonnet) [idx: 452]
+  예측: n02869837 (bonnet) [idx: 452]
+  신뢰도: 0.7467
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02869837 (bonnet) - 0.8772
+    2. n03720891 (maraca) - 0.0343
+    3. n04229816 (ski_mask) - 0.0311
+    4. n04259630 (sombrero) - 0.0288
+    5. n03124170 (cowboy_hat) - 0.0287
+
+[Image #22701]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02871525/ILSVRC2012_val_00000879.JPEG
+  정답: n02871525 (bookshop) [idx: 454]
+  예측: n02871525 (bookshop) [idx: 454]
+  신뢰도: 0.5359
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02871525 (bookshop) - 0.5560
+    2. n03461385 (grocery_store) - 0.3325
+    3. n04443257 (tobacco_shop) - 0.0423
+    4. n03661043 (library) - 0.0420
+    5. n03089624 (confectionery) - 0.0272
+
+[Image #22801]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02879718/ILSVRC2012_val_00001354.JPEG
+  정답: n02879718 (bow) [idx: 456]
+  예측: n03134739 (croquet_ball) [idx: 522]
+  신뢰도: 0.1195
+  정답여부: 틀림
+  Top-5 예측:
+    1. n03134739 (croquet_ball) - 0.3013
+    2. n04118538 (rugby_ball) - 0.2667
+    3. n04192698 (shield) - 0.2519
+    4. n04350905 (suit) - 0.1064
+    5. n03379051 (football_helmet) - 0.0738
+
+[Image #22901]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02892201/ILSVRC2012_val_00001145.JPEG
+  정답: n02892201 (brass) [idx: 458]
+  예측: n02892201 (brass) [idx: 458]
+  신뢰도: 0.9862
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02892201 (brass) - 0.9912
+    2. n04125021 (safe) - 0.0057
+    3. n03710193 (mailbox) - 0.0013
+    4. n03223299 (doormat) - 0.0012
+    5. n03347037 (fire_screen) - 0.0006
+
+[Image #23001]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02894605/ILSVRC2012_val_00000358.JPEG
+  정답: n02894605 (breakwater) [idx: 460]
+  예측: n09399592 (promontory) [idx: 976]
+  신뢰도: 0.2853
+  정답여부: 틀림
+  Top-5 예측:
+    1. n09399592 (promontory) - 0.3644
+    2. n09332890 (lakeside) - 0.3112
+    3. n09428293 (seashore) - 0.1349
+    4. n09421951 (sandbar) - 0.0984
+    5. n09472597 (volcano) - 0.0911
+
+[Image #23101]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02906734/ILSVRC2012_val_00002937.JPEG
+  정답: n02906734 (broom) [idx: 462]
+  예측: n02906734 (broom) [idx: 462]
+  신뢰도: 0.5176
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02906734 (broom) - 0.7126
+    2. n02795169 (barrel) - 0.1806
+    3. n04049303 (rain_barrel) - 0.0505
+    4. n02233338 (cockroach) - 0.0331
+    5. n03249569 (drum) - 0.0232
+
+[Image #23201]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02910353/ILSVRC2012_val_00000558.JPEG
+  정답: n02910353 (buckle) [idx: 464]
+  예측: n03794056 (mousetrap) [idx: 674]
+  신뢰도: 0.2110
+  정답여부: 틀림
+  Top-5 예측:
+    1. n03794056 (mousetrap) - 0.3887
+    2. n03691459 (loudspeaker) - 0.3399
+    3. n04019541 (puck) - 0.1205
+    4. n03444034 (go-kart) - 0.1059
+    5. n03271574 (electric_fan) - 0.0450
+
+[Image #23301]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02917067/ILSVRC2012_val_00000562.JPEG
+  정답: n02917067 (bullet_train) [idx: 466]
+  예측: n02917067 (bullet_train) [idx: 466]
+  신뢰도: 0.9879
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02917067 (bullet_train) - 0.9925
+    2. n04037443 (racer) - 0.0042
+    3. n03673027 (liner) - 0.0011
+    4. n04273569 (speedboat) - 0.0011
+    5. n04285008 (sports_car) - 0.0010
+
+[Image #23401]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02930766/ILSVRC2012_val_00000056.JPEG
+  정답: n02930766 (cab) [idx: 468]
+  예측: n02930766 (cab) [idx: 468]
+  신뢰도: 0.7157
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02930766 (cab) - 0.7692
+    2. n02814533 (beach_wagon) - 0.1053
+    3. n03930630 (pickup) - 0.0792
+    4. n03770679 (minivan) - 0.0236
+    5. n02701002 (ambulance) - 0.0228
+
+[Image #23501]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02948072/ILSVRC2012_val_00002596.JPEG
+  정답: n02948072 (candle) [idx: 470]
+  예측: n03494278 (harmonica) [idx: 593]
+  신뢰도: 0.4285
+  정답여부: 틀림
+  Top-5 예측:
+    1. n03494278 (harmonica) - 0.6424
+    2. n04515003 (upright) - 0.1618
+    3. n02672831 (accordion) - 0.0743
+    4. n03854065 (organ) - 0.0632
+    5. n04486054 (triumphal_arch) - 0.0583
+
+[Image #23601]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02951358/ILSVRC2012_val_00000347.JPEG
+  정답: n02951358 (canoe) [idx: 472]
+  예측: n02951358 (canoe) [idx: 472]
+  신뢰도: 0.8263
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02951358 (canoe) - 0.8271
+    2. n03873416 (paddle) - 0.1289
+    3. n04273569 (speedboat) - 0.0363
+    4. n02704792 (amphibian) - 0.0072
+    5. n04483307 (trimaran) - 0.0004
+
+[Image #23701]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02963159/ILSVRC2012_val_00000061.JPEG
+  정답: n02963159 (cardigan) [idx: 474]
+  예측: n02963159 (cardigan) [idx: 474]
+  신뢰도: 0.3488
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02963159 (cardigan) - 0.4763
+    2. n03980874 (poncho) - 0.2114
+    3. n03617480 (kimono) - 0.1606
+    4. n03594734 (jean) - 0.0991
+    5. n03680355 (Loafer) - 0.0526
+
+[Image #23801]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02966193/ILSVRC2012_val_00000074.JPEG
+  정답: n02966193 (carousel) [idx: 476]
+  예측: n02966193 (carousel) [idx: 476]
+  신뢰도: 0.6693
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02966193 (carousel) - 0.7891
+    2. n04462240 (toyshop) - 0.1357
+    3. n04243546 (slot) - 0.0313
+    4. n06596364 (comic_book) - 0.0246
+    5. n03724870 (mask) - 0.0193
+
+[Image #23901]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02971356/ILSVRC2012_val_00000019.JPEG
+  정답: n02971356 (carton) [idx: 478]
+  예측: n02971356 (carton) [idx: 478]
+  신뢰도: 0.5980
+  정답여부: 맞음
+  Top-5 예측:
+    1. n02971356 (carton) - 0.8070
+    2. n03179701 (desk) - 0.0866
+    3. n03337140 (file) - 0.0471
+    4. n03976467 (Polaroid_camera) - 0.0325
+    5. n02786058 (Band_Aid) - 0.0268
+
+[Image #24001]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02977058/ILSVRC2012_val_00000580.JPEG
+  정답: n02977058 (cash_machine) [idx: 480]
+  예측: n02871525 (bookshop) [idx: 454]
+  신뢰도: 0.1350
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02871525 (bookshop) - 0.3132
+    2. n04243546 (slot) - 0.1986
+    3. n04443257 (tobacco_shop) - 0.1866
+    4. n03661043 (library) - 0.1817
+    5. n03089624 (confectionery) - 0.1199
+
+[Image #24101]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02979186/ILSVRC2012_val_00000557.JPEG
+  정답: n02979186 (cassette_player) [idx: 482]
+  예측: n02978881 (cassette) [idx: 481]
+  신뢰도: 0.4076
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02978881 (cassette) - 0.4884
+    2. n04392985 (tape_player) - 0.2410
+    3. n02979186 (cassette_player) - 0.1201
+    4. n04149813 (scoreboard) - 0.0862
+    5. n02988304 (CD_player) - 0.0642
+
+[Image #24201]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02981792/ILSVRC2012_val_00000402.JPEG
+  정답: n02981792 (catamaran) [idx: 484]
+  예측: n04483307 (trimaran) [idx: 871]
+  신뢰도: 0.4989
+  정답여부: 틀림
+  Top-5 예측:
+    1. n04483307 (trimaran) - 0.5201
+    2. n02981792 (catamaran) - 0.4480
+    3. n03873416 (paddle) - 0.0145
+    4. n02951358 (canoe) - 0.0090
+    5. n03126707 (crane) - 0.0085
+
+[Image #24301]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02992211/ILSVRC2012_val_00000108.JPEG
+  정답: n02992211 (cello) [idx: 486]
+  예측: n04536866 (violin) [idx: 889]
+  신뢰도: 0.3457
+  정답여부: 틀림
+  Top-5 예측:
+    1. n04536866 (violin) - 0.4150
+    2. n02992211 (cello) - 0.3694
+    3. n03532672 (hook) - 0.1007
+    4. n02676566 (acoustic_guitar) - 0.0908
+    5. n03272010 (electric_guitar) - 0.0242
+
+[Image #24401]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n02999410/ILSVRC2012_val_00000376.JPEG
+  정답: n02999410 (chain) [idx: 488]
+  예측: n03804744 (nail) [idx: 677]
+  신뢰도: 0.4345
+  정답여부: 틀림
+  Top-5 예측:
+    1. n03804744 (nail) - 0.5443
+    2. n03743016 (megalith) - 0.2200
+    3. n03498962 (hatchet) - 0.1065
+    4. n03388043 (fountain) - 0.0765
+    5. n03532672 (hook) - 0.0528
+
+[Image #24501]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n03000247/ILSVRC2012_val_00002280.JPEG
+  정답: n03000247 (chain_mail) [idx: 490]
+  예측: n04399382 (teddy) [idx: 850]
+  신뢰도: 0.1256
+  정답여부: 틀림
+  Top-5 예측:
+    1. n04399382 (teddy) - 0.2694
+    2. n02085620 (Chihuahua) - 0.2424
+    3. n02834397 (bib) - 0.2083
+    4. n02129604 (tiger) - 0.1737
+    5. n02087394 (Rhodesian_ridgeback) - 0.1062
+
+[Image #24601]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n03014705/ILSVRC2012_val_00001168.JPEG
+  정답: n03014705 (chest) [idx: 492]
+  예측: n03721384 (marimba) [idx: 642]
+  신뢰도: 0.2769
+  정답여부: 틀림
+  Top-5 예측:
+    1. n03721384 (marimba) - 0.4280
+    2. n03014705 (chest) - 0.4011
+    3. n04179913 (sewing_machine) - 0.0706
+    4. n02747177 (ashcan) - 0.0568
+    5. n03710193 (mailbox) - 0.0435
+
+[Image #24701]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n03017168/ILSVRC2012_val_00001601.JPEG
+  정답: n03017168 (chime) [idx: 494]
+  예측: n02666196 (abacus) [idx: 398]
+  신뢰도: 0.7922
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02666196 (abacus) - 0.8611
+    2. n04591713 (wine_bottle) - 0.0497
+    3. n03857828 (oscilloscope) - 0.0410
+    4. n03983396 (pop_bottle) - 0.0355
+    5. n02823428 (beer_bottle) - 0.0127
+
+[Image #24801]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n03026506/ILSVRC2012_val_00001908.JPEG
+  정답: n03026506 (Christmas_stocking) [idx: 496]
+  예측: n02834397 (bib) [idx: 443]
+  신뢰도: 0.4311
+  정답여부: 틀림
+  Top-5 예측:
+    1. n02834397 (bib) - 0.4626
+    2. n03026506 (Christmas_stocking) - 0.2388
+    3. n02730930 (apron) - 0.1469
+    4. n03938244 (pillow) - 0.1252
+    5. n04026417 (purse) - 0.0264
+
+[Image #24901]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n03032252/ILSVRC2012_val_00000086.JPEG
+  정답: n03032252 (cinema) [idx: 498]
+  예측: n03032252 (cinema) [idx: 498]
+  신뢰도: 0.8211
+  정답여부: 맞음
+  Top-5 예측:
+    1. n03032252 (cinema) - 0.8806
+    2. n03452741 (grand_piano) - 0.0537
+    3. n04418357 (theater_curtain) - 0.0344
+    4. n04081281 (restaurant) - 0.0180
+    5. n03854065 (organ) - 0.0133
+
+[Image #25001]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n03042490/ILSVRC2012_val_00001426.JPEG
+  정답: n03042490 (cliff_dwelling) [idx: 500]
+  예측: n03042490 (cliff_dwelling) [idx: 500]
+  신뢰도: 0.9989
+  정답여부: 맞음
+  Top-5 예측:
+    1. n03042490 (cliff_dwelling) - 0.9993
+    2. n02980441 (castle) - 0.0002
+    3. n03781244 (monastery) - 0.0002
+    4. n04523525 (vault) - 0.0002
+    5. n04346328 (stupa) - 0.0001
+
+[Image #25101]
+  파일: /home/minha/.cache/kagglehub/datasets/tusonggao/imagenet-validation-dataset/versions/1/imagenet_validation/n03047690/ILSVRC2012_val_00001500.JPEG
+  정답: n03047690 (clog) [idx: 502]
+  예측: n03047690 (clog) [idx: 502]
+  신뢰도: 0.6494
+  정답여부: 맞음
+  Top-5 예측:
+    1. n03047690 (clog) - 0.7152
+    2. n04277352 (spindle) - 0.1470
+    3. n04597913 (wooden_spoon) - 0.0580
+    4. n04133789 (sandal) - 0.0545
+    5. n04599235 (wool) - 0.0253
+

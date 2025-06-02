@@ -1,0 +1,124 @@
+
+================================================================================
+실행 시간: 2025-06-02 23:10:59
+================================================================================
+[23:10:59] [INFO] Taylor 프루닝 시작: mobilenet_v3_small
+[23:10:59] [INFO] 디바이스: cpu
+[23:10:59] [INFO] 프루닝 가능한 레이어 수: 41
+[23:10:59] [INFO] 
+프루닝 초기화 중...
+[23:10:59] [INFO]   features.0.0: 16 필터 초기화
+[23:10:59] [INFO]   features.1.block.1.fc1: 8 필터 초기화
+[23:10:59] [INFO]   features.1.block.1.fc2: 16 필터 초기화
+[23:10:59] [INFO]   features.1.block.2.0: 16 필터 초기화
+[23:10:59] [INFO]   features.2.block.0.0: 72 필터 초기화
+[23:10:59] [INFO]   features.2.block.2.0: 24 필터 초기화
+[23:10:59] [INFO]   features.3.block.0.0: 88 필터 초기화
+[23:10:59] [INFO]   features.3.block.2.0: 24 필터 초기화
+[23:10:59] [INFO]   features.4.block.0.0: 96 필터 초기화
+[23:10:59] [INFO]   features.4.block.2.fc1: 24 필터 초기화
+[23:10:59] [INFO]   features.4.block.2.fc2: 96 필터 초기화
+[23:10:59] [INFO]   features.4.block.3.0: 40 필터 초기화
+[23:10:59] [INFO]   features.5.block.0.0: 240 필터 초기화
+[23:10:59] [INFO]   features.5.block.2.fc1: 64 필터 초기화
+[23:10:59] [INFO]   features.5.block.2.fc2: 240 필터 초기화
+[23:10:59] [INFO]   features.5.block.3.0: 40 필터 초기화
+[23:10:59] [INFO]   features.6.block.0.0: 240 필터 초기화
+[23:10:59] [INFO]   features.6.block.2.fc1: 64 필터 초기화
+[23:10:59] [INFO]   features.6.block.2.fc2: 240 필터 초기화
+[23:10:59] [INFO]   features.6.block.3.0: 40 필터 초기화
+[23:10:59] [INFO]   features.7.block.0.0: 120 필터 초기화
+[23:10:59] [INFO]   features.7.block.2.fc1: 32 필터 초기화
+[23:10:59] [INFO]   features.7.block.2.fc2: 120 필터 초기화
+[23:10:59] [INFO]   features.7.block.3.0: 48 필터 초기화
+[23:10:59] [INFO]   features.8.block.0.0: 144 필터 초기화
+[23:10:59] [INFO]   features.8.block.2.fc1: 40 필터 초기화
+[23:10:59] [INFO]   features.8.block.2.fc2: 144 필터 초기화
+[23:10:59] [INFO]   features.8.block.3.0: 48 필터 초기화
+[23:10:59] [INFO]   features.9.block.0.0: 288 필터 초기화
+[23:10:59] [INFO]   features.9.block.2.fc1: 72 필터 초기화
+[23:10:59] [INFO]   features.9.block.2.fc2: 288 필터 초기화
+[23:10:59] [INFO]   features.9.block.3.0: 96 필터 초기화
+[23:10:59] [INFO]   features.10.block.0.0: 576 필터 초기화
+[23:10:59] [INFO]   features.10.block.2.fc1: 144 필터 초기화
+[23:10:59] [INFO]   features.10.block.2.fc2: 576 필터 초기화
+[23:10:59] [INFO]   features.10.block.3.0: 96 필터 초기화
+[23:10:59] [INFO]   features.11.block.0.0: 576 필터 초기화
+[23:10:59] [INFO]   features.11.block.2.fc1: 144 필터 초기화
+[23:10:59] [INFO]   features.11.block.2.fc2: 576 필터 초기화
+[23:10:59] [INFO]   features.11.block.3.0: 96 필터 초기화
+[23:10:59] [INFO]   features.12.0: 576 필터 초기화
+[23:10:59] [INFO] 총 41개 레이어 초기화 완료
+[23:10:59] [INFO] 
+============================================================
+[23:10:59] [INFO] Taylor 프루닝 시작
+[23:10:59] [INFO] 최대 반복: 30
+[23:10:59] [INFO] 반복당 제거 필터: 108
+[23:10:59] [INFO] 학습률: 0.0033333333333333335
+[23:10:59] [INFO] 모멘텀: 0.9
+[23:10:59] [INFO] ============================================================
+
+[23:14:58] [INFO] 초기 정확도: 67.67%
+[23:14:58] [INFO] 초기 활성 필터 수: 6488
+[23:14:58] [INFO] 
+[Pruning Iteration 1/30]
+[23:15:23] [INFO]   평균 손실: 1.1964
+[23:15:30] [INFO] 프루닝 수행: 108개 필터 제거
+[23:15:30] [INFO]   features.7.block.2.fc1: 24개 필터 제거
+[23:15:30] [INFO]   features.7.block.2.fc2: 18개 필터 제거
+[23:15:30] [INFO]   features.3.block.0.0: 16개 필터 제거
+[23:15:30] [INFO]   features.2.block.0.0: 7개 필터 제거
+[23:15:30] [INFO]   features.1.block.1.fc1: 8개 필터 제거
+[23:15:30] [INFO]   features.4.block.2.fc1: 23개 필터 제거
+[23:15:30] [INFO]   features.4.block.0.0: 1개 필터 제거
+[23:15:30] [INFO]   features.6.block.2.fc1: 1개 필터 제거
+[23:15:30] [INFO]   features.7.block.0.0: 4개 필터 제거
+[23:15:30] [INFO]   features.5.block.0.0: 4개 필터 제거
+[23:15:30] [INFO]   features.9.block.2.fc1: 1개 필터 제거
+[23:15:30] [INFO]   features.6.block.0.0: 1개 필터 제거
+[23:21:30] [INFO]   제거된 필터: 108
+[23:21:30] [INFO]   활성 필터: 6380
+[23:21:30] [INFO]   정확도: 19.08%
+[23:21:30] [INFO]   소요 시간: 392.64초
+[23:21:30] [INFO] 
+[Pruning Iteration 2/30]
+[23:22:01] [INFO]   평균 손실: 1.2882
+[23:22:07] [INFO] 프루닝 수행: 108개 필터 제거
+[23:22:07] [INFO]   features.7.block.2.fc2: 12개 필터 제거
+[23:22:07] [INFO]   features.4.block.2.fc2: 1개 필터 제거
+[23:22:07] [INFO]   features.7.block.2.fc1: 1개 필터 제거
+[23:22:07] [INFO]   features.6.block.2.fc2: 2개 필터 제거
+[23:22:07] [INFO]   features.6.block.0.0: 16개 필터 제거
+[23:22:07] [INFO]   features.4.block.2.fc1: 1개 필터 제거
+[23:22:07] [INFO]   features.3.block.0.0: 8개 필터 제거
+[23:22:07] [INFO]   features.2.block.0.0: 21개 필터 제거
+[23:22:07] [INFO]   features.5.block.0.0: 31개 필터 제거
+[23:22:07] [INFO]   features.6.block.2.fc1: 1개 필터 제거
+[23:22:07] [INFO]   features.7.block.0.0: 5개 필터 제거
+[23:22:07] [INFO]   features.0.0: 4개 필터 제거
+[23:22:07] [INFO]   features.4.block.0.0: 4개 필터 제거
+[23:22:07] [INFO]   features.5.block.2.fc1: 1개 필터 제거
+[23:25:58] [INFO]   제거된 필터: 108
+[23:25:58] [INFO]   활성 필터: 6272
+[23:25:58] [INFO]   정확도: 0.80%
+[23:25:58] [INFO]   소요 시간: 267.44초
+[23:25:58] [INFO] 
+[Pruning Iteration 3/30]
+[23:26:29] [INFO]   평균 손실: 2.1267
+[23:26:39] [INFO] 프루닝 수행: 108개 필터 제거
+[23:26:39] [INFO]   features.7.block.2.fc1: 3개 필터 제거
+[23:26:39] [INFO]   features.6.block.2.fc1: 2개 필터 제거
+[23:26:39] [INFO]   features.6.block.2.fc2: 1개 필터 제거
+[23:26:39] [INFO]   features.2.block.0.0: 5개 필터 제거
+[23:26:39] [INFO]   features.5.block.0.0: 36개 필터 제거
+[23:26:39] [INFO]   features.6.block.0.0: 18개 필터 제거
+[23:26:39] [INFO]   features.9.block.0.0: 10개 필터 제거
+[23:26:39] [INFO]   features.4.block.2.fc2: 2개 필터 제거
+[23:26:39] [INFO]   features.8.block.0.0: 7개 필터 제거
+[23:26:39] [INFO]   features.10.block.2.fc1: 1개 필터 제거
+[23:26:39] [INFO]   features.3.block.0.0: 5개 필터 제거
+[23:26:39] [INFO]   features.4.block.0.0: 12개 필터 제거
+[23:26:39] [INFO]   features.10.block.0.0: 2개 필터 제거
+[23:26:39] [INFO]   features.7.block.0.0: 1개 필터 제거
+[23:26:39] [INFO]   features.0.0: 1개 필터 제거
+[23:26:39] [INFO]   features.11.block.0.0: 2개 필터 제거
