@@ -1,0 +1,14 @@
+{
+  "quantization_type": "dynamic",
+  "original": {
+    "accuracy": 83.0,
+    "size_mb": 9.82493782043457,
+    "inference_ms": 16.210150718688965
+  },
+  "quantized": {
+    "accuracy": 82.9375,
+    "size_mb": 5.209218978881836,
+    "inference_ms": 40.34926891326904
+  },
+  "test_batches": 100
+}
